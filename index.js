@@ -14,12 +14,12 @@ const grouptype = [
   "Social Cast"
 ];
 
-const style = ["center", "left", "right", "third", "quarter"];
+const style = ["center", "left", "right"];
 const type = ["image", "video"];
 const topics = ['technology', 'computers', 'nature', 'people']
 
-function generateRanNum() {
-  return Math.floor(Math.random() * (50 - 1 + 1) + 1);
+function generateRanNum(count) {
+  return Math.floor(Math.random() * (count - 1 + 1) + 1);
 }
 
 function generateData() {
@@ -27,23 +27,28 @@ function generateData() {
 
   for (let i = 1; i < 6; i++) {
     const data = [];
-    const rand = generateRanNum();
-    for (let i = 1; i < 31; i++) {
+    const rand = generateRanNum(50);
+    for (let i = 1; i < 15; i++) {
       const obj = {
         shop_id: i,
-        merchant: `${faker.name.firstName()} ${faker.name.lastName()}`,
-        store_url: faker.internet.url(),
-        product_desc: faker.lorem.sentence(),
+        items: [{ name: faker.company.companyName() }],
+        label: faker.lorem.sentence(),
+        shop_url: faker.internet.url()
       }
 
       if (rand===i) {
-        obj.media = [
+        const randomCount = generateRanNum(3);
+        const dataitems = [];
+        for (let i = 1; i <= randomCount; i++) {
+          dataitems.push({ name: `${faker.name.firstName()} ${faker.name.lastName()}`})
+        }
+        obj.items = [...obj.items, ...dataitems];
+        obj.media =
           {
-            type: "image",
             url: `https://source.unsplash.com/1600x900/?${topics[Math.floor(Math.random()*topics.length)]}`,
             alt: faker.lorem.sentence()
           }
-        ]
+
       }
 
       data.push(obj);
