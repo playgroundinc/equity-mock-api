@@ -15,7 +15,6 @@ const grouptype = [
 ];
 
 const style = ["center", "left", "right"];
-const type = ["image", "video"];
 const topics = ['technology', 'computers', 'nature', 'people']
 
 function generateRanNum(count) {
@@ -26,37 +25,43 @@ function generateData() {
   const mockData = [];
 
   for (let i = 1; i < 6; i++) {
-    const data = [];
+    const merchants = [];
     const rand = generateRanNum(50);
+    let media = {};
     for (let i = 1; i < 15; i++) {
       const obj = {
         shop_id: i,
-        items: [{ name: faker.company.companyName() }],
-        label: faker.lorem.sentence(),
-        shop_url: faker.internet.url()
+        products: [{ name: faker.company.companyName(), url: faker.internet.url() }],
+        shop_name: faker.lorem.sentence(),
+        shop_url: faker.internet.url(),
       }
 
       if (rand===i) {
         const randomCount = generateRanNum(3);
         const dataitems = [];
         for (let i = 1; i <= randomCount; i++) {
-          dataitems.push({ name: `${faker.name.firstName()} ${faker.name.lastName()}`})
+          dataitems.push({ name: faker.company.companyName(), url: faker.internet.url() })
         }
-        obj.items = [...obj.items, ...dataitems];
-        obj.media =
+        obj.products = [...obj.products, ...dataitems];
+        obj.image =
           {
             url: `https://source.unsplash.com/1600x900/?${topics[Math.floor(Math.random()*topics.length)]}`,
             alt: faker.lorem.sentence()
           }
-
+          media = {
+            url: `https://source.unsplash.com/1600x900/?${topics[Math.floor(Math.random()*topics.length)]}`,
+            alt: faker.lorem.sentence()
+          }
       }
 
-      data.push(obj);
+      merchants.push(obj);
     }
     mockData.push({
       section_id: i,
       layout: style[Math.floor(Math.random() * style.length)],
-      data
+      label: faker.lorem.words(),
+      media,
+      merchants
     });
   }
 
@@ -64,10 +69,15 @@ function generateData() {
 }
 
 function generateRes() {
-  return grouptype.map(group => {
+  return grouptype.map((group, i) => {
+    let media = {};
+    if (i == 1) {
+      media = { url: `https://source.unsplash.com/1600x900/?${topics[Math.floor(Math.random()*topics.length)]}`, alt: faker.lorem.sentence() }
+    }
     return {
       group_name: group.toLowerCase().replace(/ /g,''),
       title: group,
+      media,
       sections: generateData()
     };
   });
