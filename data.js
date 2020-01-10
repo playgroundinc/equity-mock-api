@@ -1,4 +1,5 @@
-module.exports = [
+module.exports =
+[
   {
     "groupname": "video",
     "title": "Video Independents",
@@ -7,7 +8,7 @@ module.exports = [
     },
     "sections": [
       {
-        "section_id": 1,
+        "section_id": "video_1",
         "layout": "center",
         "label": "",
         "media": {
@@ -171,7 +172,50 @@ module.exports = [
             "products": [
               "Spike Plus Kettle"
             ]
+          }
+        ]
+      },
+      {
+        "section_id": "video_2",
+        "layout": "center",
+        "label": "",
+        "media": {
+          "alt_text": "Alt text for this image",
+          "caption": "Caption text for this image",
+          "tablet_up": {
+            "small": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/shopeggy-hudson-wilder-modishstore.jpg",
+              "dimensions": {
+                "width": 588,
+                "height": 550
+              }
+            },
+            "large": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/shopeggy-hudson-wilder-modishstore@2x.jpg",
+              "dimensions": {
+                "width": 1176,
+                "height": 1100
+              }
+            }
           },
+          "mobile": {
+            "small": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/shopeggy-hudson-wilder-modishstore.jpg",
+              "dimensions": {
+                "width": 588,
+                "height": 550
+              }
+            },
+            "large": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/shopeggy-hudson-wilder-modishstore@2x.jpg",
+              "dimensions": {
+                "width": 1176,
+                "height": 1100
+              }
+            }
+          }
+        },
+        "merchants": [
           {
             "shop_id": 1562360,
             "shop_name": "Walnut Studio",
@@ -298,50 +342,17 @@ module.exports = [
             "products": [
               "Margot Sofa"
             ]
-          },
-          {
-            "shop_id": 2162442,
-            "shop_name": "Monster Children",
-            "shop_url": "https://shop.monsterchildren.com/",
-            "media": {
-              "alt_text": "Alt text for this image",
-              "caption": "Caption text for this image",
-              "tablet_up": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/monster-children.jpg",
-                  "dimensions": {
-                    "width": 712,
-                    "height": 428
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/monster-children@2x.jpg",
-                  "dimensions": {
-                    "width": 1424,
-                    "height": 856
-                  }
-                }
-              },
-              "mobile": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/monster-children.jpg",
-                  "dimensions": {
-                    "width": 750,
-                    "height": 462
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/monster-children@2x.jpg",
-                  "dimensions": {
-                    "width": 1500
-                  }
-                }
-              }
-            },
-            "products": [
-              "Magazines"
-            ]
-          },
+          }
+        ]
+      },
+      {
+        "section_id": "video_3",
+        "layout": "center",
+        "label": "",
+        "media": {
+
+        },
+        "merchants": [
           {
             "shop_id": 2317507,
             "shop_name": "Bend Goods",
@@ -407,6 +418,49 @@ module.exports = [
             ]
           },
           {
+            "shop_id": 2162442,
+            "shop_name": "Monster Children",
+            "shop_url": "https://shop.monsterchildren.com/",
+            "media": {
+              "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
+              "tablet_up": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/monster-children.jpg",
+                  "dimensions": {
+                    "width": 712,
+                    "height": 428
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/monster-children@2x.jpg",
+                  "dimensions": {
+                    "width": 1424,
+                    "height": 856
+                  }
+                }
+              },
+              "mobile": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/monster-children.jpg",
+                  "dimensions": {
+                    "width": 750,
+                    "height": 462
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/monster-children@2x.jpg",
+                  "dimensions": {
+                    "width": 1500
+                  }
+                }
+              }
+            },
+            "products": [
+              "Magazines"
+            ]
+          },
+          {
             "shop_id": 2621513,
             "shop_name": "SkateTrainer",
             "shop_url": "https://www.skatertrainer.com/",
@@ -420,11 +474,44 @@ module.exports = [
         ]
       },
       {
-        "section_id": 2,
+        "section_id": "video_4",
         "layout": "center",
         "label": "",
         "media": {
-
+          "alt_text": "Alt text for this image",
+          "caption": "Caption text for this image",
+          "tablet_up": {
+            "small": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/pixiebeautiy-ilovemole-mesogoods.jpg",
+              "dimensions": {
+                "width": 588,
+                "height": 550
+              }
+            },
+            "large": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/pixiebeautiy-ilovemole-mesogoods@2x.jpg",
+              "dimensions": {
+                "width": 1176,
+                "height": 1100
+              }
+            }
+          },
+          "mobile": {
+            "small": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/pixiebeautiy-ilovemole-mesogoods.jpg",
+              "dimensions": {
+                "width": 588,
+                "height": 550
+              }
+            },
+            "large": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/pixiebeautiy-ilovemole-mesogoods@2x.jpg",
+              "dimensions": {
+                "width": 1176,
+                "height": 1100
+              }
+            }
+          }
         },
         "merchants": [
           {
@@ -603,7 +690,7 @@ module.exports = [
         ]
       },
       {
-        "section_id": 3,
+        "section_id": "video_5",
         "layout": "right",
         "label": "",
         "media": {
@@ -654,50 +741,6 @@ module.exports = [
             },
             "products": [
               "Lisa Congdon Capricorn Zodiac Magnet"
-            ]
-          },
-          {
-            "shop_id": 6360035,
-            "shop_name": "Meow Skateboards",
-            "shop_url": "https://meowskateboards.com/",
-            "media": {
-              "alt_text": "Alt text for this image",
-              "caption": "Caption text for this image",
-              "tablet_up": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/meow-skateboard.jpg",
-                  "dimensions": {
-                    "width": 712,
-                    "height": 428
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/meow-skateboard@2x.jpg",
-                  "dimensions": {
-                    "width": 1424,
-                    "height": 856
-                  }
-                }
-              },
-              "mobile": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/meow-skateboard.jpg",
-                  "dimensions": {
-                    "width": 750,
-                    "height": 462
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/meow-skateboard@2x.jpg",
-                  "dimensions": {
-                    "width": 1500,
-                    "height": 950
-                  }
-                }
-              }
-            },
-            "products": [
-              "Vanessa Torres Your Paradise"
             ]
           },
           {
@@ -1030,8 +1073,8 @@ module.exports = [
         ]
       },
       {
-        "section_id": 4,
-        "layout": "left",
+        "section_id": "video_6",
+        "layout": "right",
         "label": "",
         "media": {
 
@@ -2068,9 +2111,7 @@ module.exports = [
 
             },
             "products": [
-              {
-                "Pop It Pal® Glitter Edition": "Pimple Popping Toy With Refillable Glitter Pus"
-              }
+              "Pop It Pal® Glitter Edition: Pimple Popping Toy With Refillable Glitter Pus"
             ]
           },
           {
@@ -2278,8 +2319,8 @@ module.exports = [
         ]
       },
       {
-        "section_id": 5,
-        "layout": "left",
+        "section_id": "video_7",
+        "layout": "right",
         "label": "",
         "media": {
 
@@ -2467,7 +2508,7 @@ module.exports = [
         ]
       },
       {
-        "section_id": 6,
+        "section_id": "video_8",
         "layout": "right",
         "label": "",
         "media": {
@@ -2549,6 +2590,50 @@ module.exports = [
             },
             "products": [
               "Classic Ready Rocker"
+            ]
+          },
+          {
+            "shop_id": 6360035,
+            "shop_name": "Meow Skateboards",
+            "shop_url": "https://meowskateboards.com/",
+            "media": {
+              "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
+              "tablet_up": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/meow-skateboard.jpg",
+                  "dimensions": {
+                    "width": 712,
+                    "height": 428
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/meow-skateboard@2x.jpg",
+                  "dimensions": {
+                    "width": 1424,
+                    "height": 856
+                  }
+                }
+              },
+              "mobile": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/meow-skateboard.jpg",
+                  "dimensions": {
+                    "width": 750,
+                    "height": 462
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/meow-skateboard@2x.jpg",
+                  "dimensions": {
+                    "width": 1500,
+                    "height": 950
+                  }
+                }
+              }
+            },
+            "products": [
+              "Vanessa Torres Your Paradise"
             ]
           },
           {
@@ -2833,9 +2918,7 @@ module.exports = [
 
             },
             "products": [
-              {
-                "Hex11": "Issue Bundle"
-              }
+              "Hex11: Issue Bundle"
             ]
           },
           {
