@@ -15,25 +15,14 @@ module.exports = [
         },
         "merchants": [
           {
-            "shop_id": 5286297671,
-            "shop_name": "1767 Designs",
-            "shop_url": "https://1767designs.com/",
+            "shop_id": 15211,
+            "shop_name": "Poketo",
+            "shop_url": "https://www.poketo.com/",
             "media": {
 
             },
             "products": [
-              "Ensley - Copper wall art"
-            ]
-          },
-          {
-            "shop_id": 16828743,
-            "shop_name": "1820 House",
-            "shop_url": "https://1820house.com/",
-            "media": {
-
-            },
-            "products": [
-              "Rust Belt Collective candle"
+              "Bamboo Coasters in Abstract Set"
             ]
           },
           {
@@ -44,81 +33,117 @@ module.exports = [
 
             },
             "products": [
-
+              "Selvedge Denim"
             ]
           },
           {
-            "shop_id": 6105727045,
-            "shop_ame": "A Good Company",
-            "shop_url": "https://agood.com/",
+            "shop_id": 520782,
+            "shop_name": "Moop Shop",
+            "shop_url": "https://www.moopshop.com/",
             "media": {
 
             },
             "products": [
-              "A Good Glue Stick"
+              "Backpack no.3 in Grey Wax"
             ]
           },
           {
-            "shop_id": 6700825,
-            "shop_name": "Aelfie",
-            "shop_url": "https://aelfie.com/",
+            "shop_id": 578492,
+            "shop_name": "Studio Neat",
+            "shop_url": "https://www.studioneat.com/",
             "media": {
 
             },
             "products": [
-              "Suzanne Flat-Weave Rug",
-              "Sun Dipped Tapestry"
+              "Mark One Pen"
             ]
           },
           {
-            "shop_id": 2858178,
-            "shop_name": "Alchemy Works",
-            "shop_url": "https://www.alchemyworks.us/",
+            "shop_id": 986552,
+            "shop_name": "Croft House",
+            "shop_url": "https://www.crofthouse.com/",
             "media": {
 
             },
             "products": [
-              "Yolo Journal + Apolis For Alchemy Works Striped Long Handle Tote"
+              "Utensils"
             ]
           },
           {
-            "shop_id": 2695790705,
-            "shop_name": "Allan’s Pet Center",
-            "shop_url": "https://allanspetcenter.com/",
+            "shop_id": 1003792,
+            "shop_name": "Better Life",
+            "shop_url": "https://www.cleanhappens.com/",
             "media": {
 
             },
             "products": [
-              "Tank Decorations"
+              "Naturally Dirt-Destroying Floor Cleaner"
             ]
           },
           {
-            "shop_id": 27227484,
-            "shop_name": "Aloha Bars",
-            "shop_url": "https://aloha.com/",
+            "shop_id": 1013592,
+            "shop_name": "Neu Year",
+            "shop_url": "https://www.neuyear.net/",
             "media": {
 
             },
             "products": [
-              "Peanut Butter Chocolate Chip Protein Bar"
+              "Sunday Monochrome calendar"
             ]
           },
           {
-            "shop_id": 10808710,
-            "shop_name": "AMQN Boutique",
-            "shop_url": "https://amqnboutique.com/",
+            "shop_id": 1054542,
+            "shop_name": "Turntable Lab",
+            "shop_url": "https://www.turntablelab.com/",
+            "media": {
+
+            },
+            "products": [
+              "T1 Phono SB Turntable"
+            ]
+          },
+          {
+            "shop_id": 1490065,
+            "shop_name": "Who Gives A Crap",
+            "shop_url": "https://au.whogivesacrap.org/",
+            "media": {
+
+            },
+            "products": [
+              "Forest friendly tissues"
+            ]
+          },
+          {
+            "shop_id": 1506262,
+            "shop_name": "The Sill",
+            "shop_url": "https://www.thesill.com/",
+            "media": {
+
+            },
+            "products": [
+              "Various Live Plants",
+              "Organic Potting Mix",
+              "Ask Me About My Plants tote bag",
+              "Coffee, Cats and Plants T-Shirt",
+              "Proud Plant Parent Tee"
+            ]
+          },
+          {
+            "shop_id": 1521071,
+            "shop_name": "Spike Brewing",
+            "shop_url": "https://spikebrewing.com/",
             "media": {
               "alt_text": "Alt text for this image",
               "tablet_up": {
                 "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/amqn-antique.jpg",
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/spike-brewing.jpg",
                   "dimensions": {
                     "width": 588,
                     "height": 464
                   }
                 },
                 "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/amqn-antique@2x.jpg",
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/spike-brewing@2x.jpg",
                   "dimensions": {
                     "width": 1176,
                     "height": 928
@@ -127,14 +152,14 @@ module.exports = [
               },
               "mobile": {
                 "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/amqn-antique.jpg",
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/spike-brewing.jpg",
                   "dimensions": {
                     "width": 750,
                     "height": 462
                   }
                 },
                 "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/amqn-antique@2x.jpg",
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/spike-brewing@2x.jpg",
                   "dimensions": {
                     "width": 1500,
                     "height": 950
@@ -143,106 +168,176 @@ module.exports = [
               }
             },
             "products": [
-              "Danni Gold Chain Link Hoop Earrings"
+              "Spike Plus Kettle"
             ]
           },
           {
-            "shop_id": 25578570,
-            "shop_name": "And Comfort",
-            "shop_url": "https://www.andcomfort.com/",
+            "shop_id": 1562360,
+            "shop_name": "Walnut Studio",
+            "shop_url": "https://walnutstudiolo.com/",
             "media": {
 
             },
             "products": [
-              "The Cambridge Tie Dress"
+              "Leather Cabinet Handle - The Lovejoy"
             ]
           },
           {
-            "shop_id": 17442037,
-            "shop_name": "Any Occasion Balloons",
-            "shop_url": "https://anyoccasionballoons.com/",
+            "shop_id": 1640912,
+            "shop_name": "From The Source",
+            "shop_url": "https://www.ftsny.com/",
             "media": {
 
             },
             "products": [
-              "Loose Balloons"
+              "Scout + Corvus Desk"
             ]
           },
           {
-            "shop_id": 11411330,
-            "shop_name": "Aquarium Fish Sale",
-            "shop_url": "https://www.aquariumfishsale.com/",
+            "shop_id": 1809709,
+            "shop_name": "ILoveMole.com",
+            "shop_url": "https://store.ilovemole.com/",
             "media": {
 
             },
             "products": [
-              "Freshwater Fish"
+              "Mole Coloradito Paste"
             ]
           },
           {
-            "shop_id": 9317858,
-            "shop_name": "Art of Melodious",
-            "shop_url": "www.artofmelodious.com",
+            "shop_id": 1870608,
+            "shop_name": "Hedley & Bennett",
+            "shop_url": "https://www.hedleyandbennett.com/",
             "media": {
 
             },
             "products": [
-              "Flamingo Art Print"
+              "Dashi Big Apron"
             ]
           },
           {
-            "shop_id": 8732618,
-            "shop_name": "Avitals Apiaries",
-            "shop_url": "https://shopavitals.com/",
+            "shop_id": 1925276,
+            "shop_name": "Scenario Home",
+            "shop_url": "https://www.scenariohome.com/",
             "media": {
 
             },
             "products": [
-              "Grapefruit & Rosemary Conditioner Bar"
+              "Malacca Round Back Arm Chair",
+              "Arteriors Seth Side Table",
+              "Regina Andrew Blue Ceramic Table Lamp With Linen Shade",
+              "Regina Andrew Concrete Hex Column Table Lamp",
+              "Regina Andew Hand Shaped Ceramic Table Lamp With Linen Shade",
+              "Worlds Away Lucite Stool With Fur Cushion",
+              "Regina Andrew Geometric Alabaster Uplight"
             ]
           },
           {
-            "shop_id": 372932672,
-            "shop_name": "Baby Tress",
-            "shop_url": "https://babytress.com/",
+            "shop_id": 1982810,
+            "shop_name": "Loog",
+            "shop_url": "https://loogguitars.com/",
             "media": {
 
             },
             "products": [
-              "Edge Styler"
+              "Loog Pro Electric Guitar"
             ]
           },
           {
-            "shop_id": 8513262,
-            "shop_name": "Baggu",
-            "shop_url": "https://baggu.com/",
+            "shop_id": 2005154,
+            "shop_name": "Two Wheel Gear",
+            "shop_url": "https://www.twowheelgear.com/",
             "media": {
 
             },
             "products": [
-              "Net Baggu"
+              "Mini Messenger Handlebar Bag"
             ]
           },
           {
-            "shop_id": 29896066,
-            "shop_name": "Bakell",
-            "shop_url": "https://bakell.com/",
+            "shop_id": 2023990,
+            "shop_name": "CA Modern Home",
+            "shop_url": "https://camodernhome.com/",
             "media": {
 
             },
             "products": [
-              "Airbrush Professional Series Gun Kit"
+              "Centro Lift Desk"
             ]
           },
           {
-            "shop_id": 7350995,
-            "shop_name": "Bannor Toy",
-            "shop_url": "https://bannortoys.com/",
+            "shop_id": 2078508,
+            "shop_name": "Magnolia",
+            "shop_url": "https://shop.magnolia.com/",
             "media": {
 
             },
             "products": [
-              "Wooden Toy Keys"
+              "The World Needs Sign"
+            ]
+          },
+          {
+            "shop_id": 2083650,
+            "shop_name": "Laura Davidson Direct",
+            "shop_url": "https://www.lauradavidsondirect.com/",
+            "media": {
+
+            },
+            "products": [
+              "SOHO Ribbed Management Chair"
+            ]
+          },
+          {
+            "shop_id": 2152392,
+            "shop_name": "Gus Modern",
+            "shop_url": "https://gusmodern.com/",
+            "media": {
+
+            },
+            "products": [
+              "Margot Sofa"
+            ]
+          },
+          {
+            "shop_id": 2162442,
+            "shop_name": "Monster Children",
+            "shop_url": "https://shop.monsterchildren.com/",
+            "media": {
+              "alt_text": "Alt text for this image",
+              "tablet_up": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/monster-children.jpg",
+                  "dimensions": {
+                    "width": 712,
+                    "height": 428
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/monster-children@2x.jpg",
+                  "dimensions": {
+                    "width": 1424,
+                    "height": 856
+                  }
+                }
+              },
+              "mobile": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/monster-children.jpg",
+                  "dimensions": {
+                    "width": 750,
+                    "height": 462
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/monster-children@2x.jpg",
+                  "dimensions": {
+                    "width": 1500
+                  }
+                }
+              }
+            },
+            "products": [
+              "Magazines"
             ]
           },
           {
@@ -258,150 +353,202 @@ module.exports = [
             ]
           },
           {
-            "shop_id": 10154487,
-            "shop_name": "Best Self",
-            "shop_url": "https://bestself.co/",
+            "shop_id": 2361829,
+            "shop_name": "Modish Store",
+            "shop_url": "https://www.modishstore.com/",
             "media": {
 
             },
             "products": [
-              "Self planner",
-              "Icebreaker Deck"
+              "Kalalou Recycled Wooden Coat Rack With Rustic Hooks",
+              "Safavieh Iris Floor Lamp"
             ]
           },
           {
-            "shop_id": 1003792,
-            "shop_name": "Better Life",
-            "shop_url": "https://www.cleanhappens.com/",
+            "shop_id": 2366715,
+            "shop_name": "St. Frank",
+            "shop_url": "https://stfrank.com/",
             "media": {
 
             },
             "products": [
-              "Naturally Dirt-Destroying Floor Cleaner"
+              "Havana",
+              "In the Spirit of Bali",
+              "Visionary Women",
+              "Roma",
+              "Teak Tree Root Bowl"
             ]
           },
           {
-            "shop_id": 2335506497,
-            "shop_name": "Bibim Paws",
-            "shop_url": "https://bibimpaws.com",
+            "shop_id": 2437615,
+            "shop_name": "Collyer’s Mansion",
+            "shop_url": "https://shopthemansion.com/",
             "media": {
 
             },
             "products": [
-              "Cod Liver Oil - Pet Supplement",
-              "Turducken Me - Turkey + Duck Jerky Treats for Cats + Dogs",
-              "DIY Superfood Sauce Mix"
+              "Kobe Oak Pendant light",
+              "20” Round Pouf",
+              "La Piscine Rose",
+              "Dark Blue Vintage Kilim"
             ]
           },
           {
-            "shop_id": 6669741,
-            "shop_name": "BioLite Energy",
-            "shop_url": "https://www.bioliteenergy.com/",
+            "shop_id": 2490020,
+            "shop_name": "Fido Biotics",
+            "shop_url": "https://www.fidobiotics.com/",
             "media": {
 
             },
             "products": [
-              "SunLight Portable Solar Light"
+              "Calm Down Kitty Salmon Sushi"
             ]
           },
           {
-            "shop_id": 8553846,
-            "shop_name": "BLACKBARN Shop",
-            "shop_url": "https://www.blackbarnshop.com/",
+            "shop_id": 2621513,
+            "shop_name": "SkateTrainer",
+            "shop_url": "https://www.skatertrainer.com/",
             "media": {
 
             },
             "products": [
-              "EGG Ceramic Cup"
+              "SkaterTrainer 2.0’s"
+            ]
+          }
+        ]
+      },
+      {
+        "section_id": 2,
+        "layout": "center",
+        "label": "",
+        "media": {
+
+        },
+        "merchants": [
+          {
+            "shop_id": 2671905,
+            "shop_name": "Originative Co.",
+            "shop_url": "https://www.originativeco.com/",
+            "media": {
+
+            },
+            "products": [
+              "Saber 68 Keyboard",
+              "POK3R RGB Keyboard"
             ]
           },
           {
-            "shop_id": 21788307,
-            "shop_name": "Blacksaw",
-            "shop_url": "https://blacksaw.co/",
+            "shop_id": 2724781,
+            "shop_name": "Muir Way",
+            "shop_url": "https://muir-way.com/",
             "media": {
 
             },
             "products": [
-              "Yoko Reversible Throw"
+              "Carlsbad Caverns Relief Map"
             ]
           },
           {
-            "shop_id": 8374791,
-            "shop_name": "Blankie Tails",
-            "shop_url": "https://www.blankietails.com/",
+            "shop_id": 2770873,
+            "shop_name": "Queen Majesty Hot Sauce",
+            "shop_url": "queenmajestyhotsauce.com",
             "media": {
 
             },
             "products": [
-              "Baby Shark Baby Tails"
+              "Queen Majesty Hot Sauce Trinity"
             ]
           },
           {
-            "shop_id": 11195850,
-            "shop_name": "Bombas",
-            "shop_url": "http://bombas.com/",
+            "shop_id": 2809296,
+            "shop_name": "Love xo Piper",
+            "shop_url": "https://lovepiper.com/",
             "media": {
 
             },
             "products": [
-              "Women\"s All-Ankle Sock 12-Pack",
-              "Men\"s Merino Wool Calf Sock 8-Pack"
+              "Acacia Kuau Throw"
             ]
           },
           {
-            "shop_id": 8258949,
-            "shop_name": "Booooooom.com",
-            "shop_url": "https://shop.booooooom.com/",
+            "shop_id": 2813004,
+            "shop_name": "Coco’s Variety",
+            "shop_url": "https://cocosvariety.com/",
             "media": {
 
             },
             "products": [
-              "Big Sticker Pack"
+              "Linus Roadster 8-speed",
+              "Linus Li Roadster 16”"
             ]
           },
           {
-            "shop_id": 8851096,
-            "shop_name": "Bottle Keeper",
-            "shop_url": "bottlekeeper.com",
+            "shop_id": 2858178,
+            "shop_name": "Alchemy Works",
+            "shop_url": "https://www.alchemyworks.us/",
             "media": {
 
             },
             "products": [
-              "The Standard 2.0 - Neo Chrome"
+              "Yolo Journal + Apolis For Alchemy Works Striped Long Handle Tote"
             ]
           },
           {
-            "shop_id": 6894944323,
-            "shop_name": "Boysmells",
-            "shop_url": "https://boysmells.com/",
+            "shop_id": 2878140,
+            "shop_name": "Made by Cleo",
+            "shop_url": "https://www.madebycleo.com/",
             "media": {
 
             },
             "products": [
-              "Cinderose candle"
+              "Velvet Bow Tie Cat Collar Set"
             ]
           },
           {
-            "shop_id": 11550310,
-            "shop_name": "Brighton Beauty",
-            "shop_url": "https://brightonbeautysupply.com/",
+            "shop_id": 3050485,
+            "shop_name": "My Buddy Tag",
+            "shop_url": "https://mybuddytag.com/",
             "media": {
 
             },
             "products": [
-              "Framesi Coloring Tint Brush"
+              "Buddy Tag bracelet"
             ]
           },
           {
-            "shop_id": 2676719676,
-            "shop_name": "Bripe",
-            "shop_url": "https://briping.com/",
+            "shop_id": 3260841,
+            "shop_name": "ModShop",
+            "shop_url": "https://modshop1.com/",
             "media": {
 
             },
             "products": [
-              "Coffee Brew Pipe Kit"
+              "Stool"
+            ]
+          },
+          {
+            "shop_id": 3450689,
+            "shop_name": "Bulb America",
+            "shop_url": "https://www.bulbamerica.com/",
+            "media": {
+
+            },
+            "products": [
+              "Philips 50w 100w 150w A-Shape A21 3 Contact DuraMax Three Way Incandescent Light Bulb"
+            ]
+          },
+          {
+            "shop_id": 3559157,
+            "shop_name": "Centuria Vintage",
+            "shop_url": "https://www.centuriavintage.com/",
+            "media": {
+
+            },
+            "products": [
+              "Linen and Nailhead Cabinet",
+              "Boho Rattan Armchair",
+              "Vintage 70s Boho Art Hanging",
+              "Modern Minimilist Walnut and Brass Shelving Unit"
             ]
           },
           {
@@ -419,104 +566,42 @@ module.exports = [
             ]
           },
           {
-            "shop_id": 3450689,
-            "shop_name": "Bulb America",
-            "shop_url": "https://www.bulbamerica.com/",
+            "shop_id": 3895389,
+            "shop_name": "Max-Bone",
+            "shop_url": "https://www.max-bone.com/",
             "media": {
 
             },
             "products": [
-              "Philips 50w 100w 150w A-Shape A21 3 Contact DuraMax Three Way Incandescent Light Bulb"
+              "Mouse Felt Toy"
             ]
           },
           {
-            "shop_id": 2023990.0,
-            "shop_name": "CA Modern Home",
-            "shop_url": "https://camodernhome.com/",
+            "shop_id": 3968269,
+            "shop_name": "Parachute",
+            "shop_url": "https://www.parachutehome.com/",
             "media": {
 
             },
             "products": [
-              "Centro Lift Desk"
+              "Alpaca Lumbar Pillow"
             ]
           },
           {
-            "shop_id": 11971680,
-            "shop_name": "Cape Clasp",
-            "shop_url": "https://www.capeclasp.com/",
+            "shop_id": 4170865,
+            "shop_name": "Retro Radio Farm",
+            "shop_url": "https://www.retroradiofarm.com/",
             "media": {
 
             },
             "products": [
-              "Whale Clasp"
-            ]
-          },
-          {
-            "shop_id": 10501587002,
-            "shop_name": "Casa Blanca Coffee",
-            "shop_url": "https://www.casablancacoffee.co/",
-            "media": {
-
-            },
-            "products": [
-              "Casa Blanca Logo Mug"
-            ]
-          },
-          {
-            "shop_id": 14636454,
-            "shop_name": "Casa Gear",
-            "shop_url": "https://casagear.com",
-            "media": {
-
-            },
-            "products": [
-              "Engage Upholstered Armchair Laguna",
-              "4D Concepts Arlington Wall Shelf with Desk",
-              "3 Piece Carpina Home Floating Ladder Shelf Office Desk",
-              "Risa End Table",
-              "Mango Wood Coffee Table"
-            ]
-          },
-          {
-            "shop_id": 2366046265,
-            "shop_name": "Cat Tree King",
-            "shop_url": "https://cattreeking.com/",
-            "media": {
-
-            },
-            "products": [
-              "Cat Mansion Beige"
-            ]
-          },
-          {
-            "shop_id": 7049904194,
-            "shop_name": "CatSchool.co",
-            "shop_url": "https://www.catschool.co/",
-            "media": {
-
-            },
-            "products": [
-              "The Cat Training Kit"
-            ]
-          },
-          {
-            "shop_id": 3559157,
-            "shop_name": "Centuria Vintage",
-            "shop_url": "https://www.centuriavintage.com/",
-            "media": {
-
-            },
-            "products": [
-              "Linen and Nailhead Cabinet",
-              "Boho Rattan Armchair",
-              "Vintage 70s Boho Art Hanging",
-              "Modern Minimilist Walnut and Brass Shelving Unit"
+              "Gumby Green 1950s Airline AM Tube Radio"
             ]
           }
         ]
       },
       {
-        "section_id": 2,
+        "section_id": 3,
         "layout": "right",
         "label": "",
         "media": {
@@ -524,85 +609,27 @@ module.exports = [
         },
         "merchants": [
           {
-            "shop_id": 4465066084.0,
-            "shop_name": "Chad Isham",
-            "shop_url": "https://shop.chadisham.com",
+            "shop_id": 4299477,
+            "shop_name": "Cultural Interiors",
+            "shop_url": "https://www.culturalinteriors.com/",
             "media": {
 
             },
             "products": [
-              "Vintage Moroccan Rug",
-              "Vintage Wall Lamp"
+              "Side Tables"
             ]
           },
           {
-            "shop_id": 9906744,
-            "shop_name": "Chocolate Man",
-            "shop_url": "https://www.chocolateman.com/",
+            "shop_id": 4381069,
+            "shop_name": "The Citizenry",
+            "shop_url": "https://www.the-citizenry.com/",
             "media": {
 
             },
             "products": [
-              "Marble Slab"
-            ]
-          },
-          {
-            "shop_id": 10789302,
-            "shop_name": "Coast Chimes",
-            "shop_url": "https://www.coastchimes.com/",
-            "media": {
-
-            },
-            "products": [
-              "Copper and Sea Glass Outdoor Wind Chime"
-            ]
-          },
-          {
-            "shop_id": 2813004,
-            "shop_name": "Coco’s Variety",
-            "shop_url": "https://cocosvariety.com/",
-            "media": {
-
-            },
-            "products": [
-              "Linus Roadster 8-speed",
-              "Linus Li Roadster 16\\\\"
-            ]
-          },
-          {
-            "shop_id": 2437615,
-            "shop_name": "Collyer’s Mansion",
-            "shop_url": "https://shopthemansion.com/",
-            "media": {
-
-            },
-            "products": [
-              "Kobe Oak Pendant light",
-              "20\" Round Pouf",
-              "La Piscine Rose",
-              "Dark Blue Vintage Kilim"
-            ]
-          },
-          {
-            "shop_id": 13380845,
-            "shop_name": "Colour Pop",
-            "shop_url": "thttps://colourpop.com/",
-            "media": {
-
-            },
-            "products": [
-              "Makeup Brush Bundle"
-            ]
-          },
-          {
-            "shop_id": 22917581,
-            "shop_name": "Cook Potluck",
-            "shop_url": "https://cookpotluck.com/",
-            "media": {
-
-            },
-            "products": [
-              "Utensil Set"
+              "Palermo Tripolina Camp Stool",
+              "Palermo Chair - Black & Grey Cowhide",
+              "Parthiv Chunky Jute Rug"
             ]
           },
           {
@@ -617,132 +644,6 @@ module.exports = [
             ]
           },
           {
-            "shop_id": 1546518592,
-            "shop_name": "Coterie Party",
-            "shop_url": "https://coterieparty.com",
-            "media": {
-
-            },
-            "products": [
-              "Number Balloon Bouquet"
-            ]
-          },
-          {
-            "shop_id": 986552,
-            "shop_name": "Croft House",
-            "shop_url": "https://www.crofthouse.com/",
-            "media": {
-
-            },
-            "products": [
-              "Utensils"
-            ]
-          },
-          {
-            "shop_id": 4299477,
-            "shop_name": "Cultural Interiors",
-            "shop_url": "https://www.culturalinteriors.com/",
-            "media": {
-
-            },
-            "products": [
-              "Side Tables"
-            ]
-          },
-          {
-            "shop_id": 10602118,
-            "shop_name": "CXBO",
-            "shop_url": "http://cxbochocolates.com",
-            "media": {
-
-            },
-            "products": [
-              "Signature Bonbon Collection",
-              "Disco Egg",
-              "Signature Bar Collection"
-            ]
-          },
-          {
-            "shop_id": 10416448,
-            "shop_name": "Davon Sales",
-            "shop_url": "https://davsonsales.com/",
-            "media": {
-
-            },
-            "products": [
-              "Tooloud Lovin You Pho Eva Fridge Magnet"
-            ]
-          },
-          {
-            "shop_id": 423329852,
-            "shop_name": "Depuis Toujours",
-            "shop_url": "https://toujours.tv/",
-            "media": {
-
-            },
-            "products": [
-              "Herringbone Tweed & Corduroy Bomber"
-            ]
-          },
-          {
-            "shop_id": 12556547,
-            "shop_name": "Detroit Denim",
-            "shop_url": "https://detroitdenim.com/",
-            "media": {
-
-            },
-            "products": [
-              "Bandana",
-              "Crewneck Sweatshirt",
-              "Classic Cut"
-            ]
-          },
-          {
-            "shop_id": 26603156,
-            "shop_name": "Dodo Case",
-            "shop_url": "https://www.dodocase.com/",
-            "media": {
-
-            },
-            "products": [
-              "Durable Portfolio Case"
-            ]
-          },
-          {
-            "shop_id": 3592749129,
-            "shop_name": "EAP Innovations",
-            "shop_url": "www.eapinnovations.com",
-            "media": {
-
-            },
-            "products": [
-              "Anchor 11221 16 Oz Round Mason Jar"
-            ]
-          },
-          {
-            "shop_id": 17243987,
-            "shop_name": "Eggy",
-            "shop_url": "https://www.shopeggy.com/",
-            "media": {
-
-            },
-            "products": [
-              "Classic Footie Romper - White",
-              "Pink Beanie"
-            ]
-          },
-          {
-            "shop_id": 7614922867,
-            "shop_name": "Elizabeth Benotti Ceramics",
-            "shop_url": "https://elizabethbenotti.com/",
-            "media": {
-
-            },
-            "products": [
-              "Round Pinched Planter"
-            ]
-          },
-          {
             "shop_id": 5272397,
             "shop_name": "Emily McDowell",
             "shop_url": "https://emilymcdowell.com/",
@@ -754,369 +655,9 @@ module.exports = [
             ]
           },
           {
-            "shop_id": 11172112,
-            "shop_name": "Ergodriven",
-            "shop_url": "https://ergodriven.com/",
-            "media": {
-
-            },
-            "products": [
-              "Topo Mini | The Not-flat Standing Desk Anti-fatigue Mat With Calculated Terrain"
-            ]
-          },
-          {
-            "shop_id": 4382261337,
-            "shop_name": "Essence Luxe Couture",
-            "shop_url": "https://essenceluxecouture.com/",
-            "media": {
-
-            },
-            "products": [
-              "Multiple Wigs"
-            ]
-          },
-          {
-            "shop_id": 20915467,
-            "shop_name": "Facile",
-            "shop_url": "https://www.facileskin.com/",
-            "media": {
-
-            },
-            "products": [
-              "Tinted SPF"
-            ]
-          },
-          {
-            "shop_id": 17083755,
-            "shop_name": "Feather Fox",
-            "shop_url": "https://www.featherfox.com.au/",
-            "media": {
-
-            },
-            "products": [
-              "Blue Paisley Women’s Scarf"
-            ]
-          },
-          {
-            "shop_id": 2490020,
-            "shop_name": "Fido Biotics",
-            "shop_url": "https://www.fidobiotics.com/",
-            "media": {
-
-            },
-            "products": [
-              "Calm Down Kitty Salmon Sushi"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Flair and Paper",
-            "shop_url": "https://www.flairandpaper.com/",
-            "media": {
-
-            },
-            "products": [
-              "Hello Gorgeous Notepad"
-            ]
-          },
-          {
-            "shop_id": 25340477537,
-            "shop_name": "Flair Home Collection",
-            "shop_url": "https://flairhomecollection.com/",
-            "media": {
-
-            },
-            "products": [
-              "Vintage Beni Ourain Rug",
-              "Vintage Milo Baughman Barrel Back Lounge Chair in Camel Velvet",
-              "Beni Ourain Moroccan Rug Diamond Pattern"
-            ]
-          },
-          {
-            "shop_id": 1161658421,
-            "shop_name": "Fluff Alpaca",
-            "shop_url": "https://fluffalpaca.com/",
-            "media": {
-
-            },
-            "products": [
-              "Men\"s Jersey Knit V-Neck Sweater",
-              "Ouef Cloud Pillow"
-            ]
-          },
-          {
-            "shop_id": 26456534,
-            "shop_name": "France & Son",
-            "shop_url": "https://www.franceandson.com/",
-            "media": {
-
-            },
-            "products": [
-              "Atlas 1 Light Floor Lamp"
-            ]
-          },
-          {
-            "shop_id": 26329088075,
-            "shop_name": "Fringe Studio",
-            "shop_url": "https://petshop.fringestudio.com/",
-            "media": {
-
-            },
-            "products": [
-              "Gallery Detroit Pet Bowl",
-              "Rosé Dog Toy",
-              "Funny Cat Canvas Tote",
-              "Miss Kitty Canvas Dog Toy",
-              "Good Doggie Ceramic Treat Jar"
-            ]
-          },
-          {
-            "shop_id": 1640912,
-            "shop_name": "From The Source",
-            "shop_url": "https://www.ftsny.com/",
-            "media": {
-
-            },
-            "products": [
-              "Scout + Corvus Desk"
-            ]
-          },
-          {
-            "shop_id": 15190256,
-            "shop_name": "Gex Worldwide",
-            "shop_url": "https://www.gexworldwide.com/",
-            "media": {
-
-            },
-            "products": [
-              "Gex Cork Canvas Block Head And Mannequin Head Tripod Combo"
-            ]
-          },
-          {
-            "shop_id": 7417947,
-            "shop_name": "Gindos",
-            "shop_url": "www.gindos.com",
-            "media": {
-
-            },
-            "products": [
-              "Gindo’s Jalapeno Poblano"
-            ]
-          },
-          {
-            "shop_id": 26210424,
-            "shop_name": "Glove Nation",
-            "shop_url": "https://glovenation.com/",
-            "media": {
-
-            },
-            "products": [
-              "Bandit Black Powder Free Vinyl Gloves"
-            ]
-          },
-          {
-            "shop_id": 13334083,
-            "shop_name": "Good Steps",
-            "shop_url": "https://www.goodsteps.com/",
-            "media": {
-
-            },
-            "products": [
-              "Women’s original"
-            ]
-          },
-          {
-            "shop_id": 2152392,
-            "shop_name": "Gus Modern",
-            "shop_url": "https://gusmodern.com/",
-            "media": {
-
-            },
-            "products": [
-              "Margot Sofa"
-            ]
-          },
-          {
-            "shop_id": 5436801113,
-            "shop_name": "HairArt",
-            "shop_url": "https://hairartproducts.com/",
-            "media": {
-
-            },
-            "products": [
-              "Deluxe Display Mannequins"
-            ]
-          },
-          {
-            "shop_id": 10202551,
-            "shop_name": "Hawkins New York",
-            "shop_url": "https://www.hawkinsnewyork.com/",
-            "media": {
-
-            },
-            "products": [
-              "Mara Utility Canister",
-              "Simple Mohair Throw"
-            ]
-          },
-          {
-            "shop_id": 11763548,
-            "shop_name": "Hazel Village",
-            "shop_url": "https://hazelvillage.com/",
-            "media": {
-
-            },
-            "products": [
-              "Lewis Toad"
-            ]
-          },
-          {
-            "shop_id": 2248474690,
-            "shop_name": "Heart Bowl",
-            "shop_url": "https://myheartbowl.com/",
-            "media": {
-
-            },
-            "products": [
-              "Ceramic Heart Bowl 2.0"
-            ]
-          },
-          {
-            "shop_id": 1870608,
-            "shop_name": "Hedley & Bennett",
-            "shop_url": "https://www.hedleyandbennett.com/",
-            "media": {
-
-            },
-            "products": [
-              "Dashi Big Apron"
-            ]
-          },
-          {
-            "shop_id": 16957617,
-            "shop_name": "Hijabs & Stuff",
-            "shop_url": "https://www.hijabsandstuff.com/",
-            "media": {
-
-            },
-            "products": [
-              "Turban - White Silver"
-            ]
-          },
-          {
-            "shop_id": 9938752,
-            "shop_name": "Hip Baby Wrap",
-            "shop_url": "https://www.hipbabywrap.com/",
-            "media": {
-
-            },
-            "products": [
-              "Turquoise Woven Wrap"
-            ]
-          },
-          {
-            "shop_id": 18502479,
-            "shop_name": "Horti",
-            "shop_url": "https://heyhorti.com/",
-            "media": {
-
-            },
-            "products": [
-              "Old Fashioned mister"
-            ]
-          },
-          {
-            "shop_id": 11877310,
-            "shop_name": "Hudson Wilder",
-            "shop_url": "https://hudsonwilder.com/",
-            "media": {
-              "alt_text": "Alt text for this image",
-              "tablet_up": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/hudson-wilder.jpg",
-                  "dimensions": {
-                    "width": 588,
-                    "height": 464
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/hudson-wilder@2x.jpg",
-                  "dimensions": {
-                    "width": 1176,
-                    "height": 928
-                  }
-                }
-              },
-              "mobile": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/hudson-wilder.jpg",
-                  "dimensions": {
-                    "width": 750,
-                    "height": 462
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/hudson-wilder@2x.jpg",
-                  "dimensions": {
-                    "width": 1500,
-                    "height": 950
-                  }
-                }
-              }
-            },
-            "products": [
-              "Damek Charcoal Line Bowls"
-            ]
-          },
-          {
-            "shop_id": 8427283,
-            "shop_name": "Hunted Fox",
-            "shop_url": "https://huntedfox.co/",
-            "media": {
-
-            },
-            "products": [
-              "Modern Boho | Vintage African Indigo Accent Pillow",
-              "Modern Boho | Neon Vintage African Indigo Accent Pillow"
-            ]
-          },
-          {
-            "shop_id": 8664812,
-            "shop_name": "Huset",
-            "shop_url": "https://huset-shop.com/",
-            "media": {
-
-            },
-            "products": [
-              "Ferm Living Quilt Cushions w/ Brass Zipper"
-            ]
-          },
-          {
-            "shop_id": 1320812591,
-            "shop_name": "I Love Smencils",
-            "shop_url": "https://ilovesmencils.com/",
-            "media": {
-
-            },
-            "products": [
-              "Tri-Color Grip Smens"
-            ]
-          },
-          {
-            "shop_id": 13924193,
-            "shop_name": "ijji",
-            "shop_url": "https://ijji.co/",
-            "media": {
-
-            },
-            "products": [
-              "Canvas Work Pants"
-            ]
-          },
-          {
-            "shop_id": 1809709,
-            "shop_name": "ILoveMole.com",
-            "shop_url": "https://store.ilovemole.com/",
+            "shop_id": 6360035,
+            "shop_name": "Meow Skateboards",
+            "shop_url": "https://meowskateboards.com/",
             "media": {
               "alt_text": "Alt text for this image",
               "tablet_up": {
@@ -1153,62 +694,100 @@ module.exports = [
               }
             },
             "products": [
-              "Mole Coloradito Paste"
+              "Vanessa Torres Your Paradise"
             ]
           },
           {
-            "shop_id": 21338945,
-            "shop_name": "In The Vintage Kitchen Shop",
-            "shop_url": "https://shopinthevintagekitchen.com/",
+            "shop_id": 6461285,
+            "shop_name": "Koio",
+            "shop_url": "https://www.koio.co/",
             "media": {
 
             },
             "products": [
-              "Vintage Wooden Fruit Crate"
+              "Capri Fiore",
+              "Capri Roccia",
+              "Capri Triple White",
+              "Capri Onyx Men",
+              "Capri Perla"
             ]
           },
           {
-            "shop_id": 12555759,
-            "shop_name": "Jennifer Meyer",
-            "shop_url": "https://jennifermeyer.com/",
+            "shop_id": 6476399,
+            "shop_name": "Spinster Records",
+            "shop_url": "https://www.spinsterrecords.com/",
             "media": {
 
             },
             "products": [
-              "Mini Leaf Necklace"
+              "T1 Phono SB Turntable - Walnut"
             ]
           },
           {
-            "shop_id": 26328792,
-            "shop_name": "Kebbek Skateboards",
-            "shop_url": "https://www.kebbekskateboards.com/",
+            "shop_id": 6655165,
+            "shop_name": "Mannequin Madness",
+            "shop_url": "https://www.mannequinmadness.com/",
             "media": {
 
             },
             "products": [
-              "Tepakan Wheels"
+              "Abstract Female Mannequin Head"
             ]
           },
           {
-            "shop_id": 11403964,
-            "shop_name": "Kikkerland",
-            "shop_url": "https://kikkerland.com/",
+            "shop_id": 6669741,
+            "shop_name": "BioLite Energy",
+            "shop_url": "https://www.bioliteenergy.com/",
             "media": {
 
             },
             "products": [
-              "Pizza Night Light"
+              "SunLight Portable Solar Light"
             ]
           },
           {
-            "shop_id": 27087620,
-            "shop_name": "Kin Euphorics",
-            "shop_url": "https://shop.kineuphorics.com/",
+            "shop_id": 6700825,
+            "shop_name": "Aelfie",
+            "shop_url": "https://aelfie.com/",
             "media": {
 
             },
             "products": [
-              "High Rhode"
+              "Suzanne Flat-Weave Rug",
+              "Sun Dipped Tapestry"
+            ]
+          },
+          {
+            "shop_id": 7350995,
+            "shop_name": "Bannor Toy",
+            "shop_url": "https://bannortoys.com/",
+            "media": {
+
+            },
+            "products": [
+              "Wooden Toy Keys"
+            ]
+          },
+          {
+            "shop_id": 7410191,
+            "shop_name": "Kohezi",
+            "shop_url": "https://www.kohezi.com/",
+            "media": {
+
+            },
+            "products": [
+              "Ystudio - Resin Rollerball Pen"
+            ]
+          },
+          {
+            "shop_id": 7417947,
+            "shop_name": "Gindos",
+            "shop_url": "www.gindos.com",
+            "media": {
+
+            },
+            "products": [
+              "Gindo’s Jalapeno Poblano"
             ]
           },
           {
@@ -1255,123 +834,199 @@ module.exports = [
             ]
           },
           {
-            "shop_id": 20348667,
-            "shop_name": "Kinto",
-            "shop_url": "https://kinto-usa.com/",
+            "shop_id": 8258949,
+            "shop_name": "Booooooom.com",
+            "shop_url": "https://shop.booooooom.com/",
             "media": {
 
             },
             "products": [
-              "Aqua Culture Vase 80mm"
+              "Big Sticker Pack"
             ]
           },
           {
-            "shop_id": 7410191,
-            "shop_name": "Kohezi",
-            "shop_url": "https://www.kohezi.com/",
+            "shop_id": 8374791,
+            "shop_name": "Blankie Tails",
+            "shop_url": "https://www.blankietails.com/",
             "media": {
 
             },
             "products": [
-              "Ystudio - Resin Rollerball Pen"
+              "Baby Shark Baby Tails"
             ]
           },
           {
-            "shop_id": 6461285,
-            "shop_name": "Koio",
-            "shop_url": "https://www.koio.co/",
+            "shop_id": 8383573,
+            "shop_name": "Yo Sox",
+            "shop_url": "https://www.yo-sox.com/",
             "media": {
 
             },
             "products": [
-              "Capri Fiore",
-              "Capri Roccia",
-              "Capri Triple White",
-              "Capri Onyx Men",
-              "Capri Perla"
+              "Socks"
             ]
           },
           {
-            "shop_id": 4431478899,
-            "shop_name": "Kuze",
-            "shop_url": "https://kuzefukuandsons.com/",
+            "shop_id": 8427283,
+            "shop_name": "Hunted Fox",
+            "shop_url": "https://huntedfox.co/",
             "media": {
 
             },
             "products": [
-              "Organic Fruit Vinegar Drink"
+              "Modern Boho | Vintage African Indigo Accent Pillow",
+              "Modern Boho | Neon Vintage African Indigo Accent Pillow"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Laura Davidson Direct",
-            "shop_url": "https://www.lauradavidsondirect.com/",
+            "shop_id": 8513262,
+            "shop_name": "Baggu",
+            "shop_url": "https://baggu.com/",
             "media": {
 
             },
             "products": [
-              "SOHO Ribbed Management Chair"
+              "Net Baggu"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Leopara Makeup Lights",
-            "shop_url": "https://leopara.com/",
+            "shop_id": 8541952,
+            "shop_name": "Time In Color",
+            "shop_url": "https://timeincolor.com/",
             "media": {
 
             },
             "products": [
-              "Leopara Makeup Lighting System"
+              "Today clock"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Light Provisions",
-            "shop_url": "https://www.lightprovisions.com/",
+            "shop_id": 8553846,
+            "shop_name": "BLACKBARN Shop",
+            "shop_url": "https://www.blackbarnshop.com/",
             "media": {
 
             },
             "products": [
-              "Beeswax Taper Candles"
+              "EGG Ceramic Cup"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Liquid Sands Glass Gallery",
-            "shop_url": "https://liquidsandsgallery.com/",
+            "shop_id": 8664812,
+            "shop_name": "Huset",
+            "shop_url": "https://huset-shop.com/",
             "media": {
 
             },
             "products": [
-              "Cane Bowls"
+              "Ferm Living Quilt Cushions w/ Brass Zipper"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Loog",
-            "shop_url": "https://loogguitars.com/",
+            "shop_id": 8732618,
+            "shop_name": "Avitals Apiaries",
+            "shop_url": "https://shopavitals.com/",
             "media": {
 
             },
             "products": [
-              "Loog Pro Electric Guitar"
+              "Grapefruit & Rosemary Conditioner Bar"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Love xo Piper",
-            "shop_url": "https://lovepiper.com/",
+            "shop_id": 8851096,
+            "shop_name": "Bottle Keeper",
+            "shop_url": "bottlekeeper.com",
             "media": {
 
             },
             "products": [
-              "Acacia Kuau Throw"
+              "The Standard 2.0 - Neo Chrome"
+            ]
+          },
+          {
+            "shop_id": 8987434,
+            "shop_name": "Whoa Nelli",
+            "shop_url": "https://www.whoanelli.com/",
+            "media": {
+
+            },
+            "products": [
+              "Natural Household Cleaners"
+            ]
+          },
+          {
+            "shop_id": 9205284,
+            "shop_name": "Only NY",
+            "shop_url": "https://onlyny.com/",
+            "media": {
+
+            },
+            "products": [
+              "Service T-Shirt",
+              "Hudson Twill Pants - Black",
+              "PRO-Keds Royal Lo Plus"
+            ]
+          },
+          {
+            "shop_id": 9317858,
+            "shop_name": "Art of Melodious",
+            "shop_url": "www.artofmelodious.com",
+            "media": {
+
+            },
+            "products": [
+              "Flamingo Art Print"
+            ]
+          },
+          {
+            "shop_id": 9508990,
+            "shop_name": "The Wooden States",
+            "shop_url": "https://www.thewoodenstates.com/",
+            "media": {
+
+            },
+            "products": [
+              "New York Magnetic Key Holder"
+            ]
+          },
+          {
+            "shop_id": 9628798,
+            "shop_name": "My Three Cats & Co.",
+            "shop_url": "https://mythreecats.com/",
+            "media": {
+
+            },
+            "products": [
+              "Abby Wool Cat Cave"
+            ]
+          },
+          {
+            "shop_id": 9906744,
+            "shop_name": "Chocolate Man",
+            "shop_url": "https://www.chocolateman.com/",
+            "media": {
+
+            },
+            "products": [
+              "Marble Slab"
+            ]
+          },
+          {
+            "shop_id": 9938752,
+            "shop_name": "Hip Baby Wrap",
+            "shop_url": "https://www.hipbabywrap.com/",
+            "media": {
+
+            },
+            "products": [
+              "Turquoise Woven Wrap"
             ]
           }
         ]
       },
       {
-        "section_id": 2,
+        "section_id": 4,
         "layout": "left",
         "label": "",
         "media": {
@@ -1379,130 +1034,436 @@ module.exports = [
         },
         "merchants": [
           {
-            "shop_id": "",
-            "shop_name": "Lovevery",
-            "shop_url": "https://lovevery.com/",
+            "shop_id": 10154487,
+            "shop_name": "Best Self",
+            "shop_url": "https://bestself.co/",
             "media": {
 
             },
             "products": [
-              "The Play Gym"
+              "Self planner",
+              "Icebreaker Deck"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "LunchSkins",
-            "shop_url": "https://www.lunchskins.com/",
+            "shop_id": 10202551,
+            "shop_name": "Hawkins New York",
+            "shop_url": "https://www.hawkinsnewyork.com/",
+            "media": {
+              "alt_text": "Alt text for this image",
+              "tablet_up": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/hawkins-new-york.jpg",
+                  "dimensions": {
+                    "width": 588,
+                    "height": 409
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/hawkins-new-york@2x.jpg",
+                  "dimensions": {
+                    "width": 1176,
+                    "height": 818
+                  }
+                }
+              },
+              "mobile": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/hawkins-new-york.jpg",
+                  "dimensions": {
+                    "width": 750,
+                    "height": 458
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/hawkins-new-york@2x.jpg",
+                  "dimensions": {
+                    "width": 1500,
+                    "height": 917
+                  }
+                }
+              }
+            },
+            "products": [
+              "Mara Utility Canister",
+              "Simple Mohair Throw"
+            ]
+          },
+          {
+            "shop_id": 10416448,
+            "shop_name": "Davon Sales",
+            "shop_url": "https://davsonsales.com/",
             "media": {
 
             },
             "products": [
-              "Reusable Snack Bag Red Cactus"
+              "Tooloud Lovin You Pho Eva Fridge Magnet"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Lux Eros",
-            "shop_url": "https://lux-eros.com/",
+            "shop_id": 10488044,
+            "shop_name": "Olander Earthworks",
+            "shop_url": "https://www.olanderearthworks.com/",
             "media": {
 
             },
             "products": [
-              "Pyramid Pet - Envy"
+              "Desktop Zen Garden - Prismatic Genius Pack"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Mac Demarco",
-            "shop_url": "https://shop.mac-demarco.com/",
+            "shop_id": 10602118,
+            "shop_name": "CXBO",
+            "shop_url": "http://cxbochocolates.com",
             "media": {
 
             },
             "products": [
-              "Mac’s Record Label"
+              "Signature Bonbon Collection",
+              "Disco Egg",
+              "Signature Bar Collection"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Made by Cleo",
-            "shop_url": "https://www.madebycleo.com/",
+            "shop_id": 10611678,
+            "shop_name": "The Henna Guys",
+            "shop_url": "https://thehennaguys.com",
             "media": {
 
             },
             "products": [
-              "Velvet Bow Tie Cat Collar Set"
+              "Deep Red Henna Hair Dye"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Magnolia",
-            "shop_url": "https://shop.magnolia.com/",
+            "shop_id": 10789302,
+            "shop_name": "Coast Chimes",
+            "shop_url": "https://www.coastchimes.com/",
             "media": {
 
             },
             "products": [
-              "The World Needs Sign"
+              "Copper and Sea Glass Outdoor Wind Chime"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Mannequin Madness",
-            "shop_url": "https://www.mannequinmadness.com/",
+            "shop_id": 10808710,
+            "shop_name": "AMQN Boutique",
+            "shop_url": "https://amqnboutique.com/",
+            "media": {
+              "alt_text": "Alt text for this image",
+              "tablet_up": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/amqn-antique.jpg",
+                  "dimensions": {
+                    "width": 588,
+                    "height": 464
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/amqn-antique@2x.jpg",
+                  "dimensions": {
+                    "width": 1176,
+                    "height": 928
+                  }
+                }
+              },
+              "mobile": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/amqn-antique.jpg",
+                  "dimensions": {
+                    "width": 750,
+                    "height": 462
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/amqn-antique@2x.jpg",
+                  "dimensions": {
+                    "width": 1500,
+                    "height": 950
+                  }
+                }
+              }
+            },
+            "products": [
+              "Danni Gold Chain Link Hoop Earrings"
+            ]
+          },
+          {
+            "shop_id": 11172112,
+            "shop_name": "Ergodriven",
+            "shop_url": "https://ergodriven.com/",
             "media": {
 
             },
             "products": [
-              "Abstract Female Mannequin Head"
+              "Topo Mini | The Not-flat Standing Desk Anti-fatigue Mat With Calculated Terrain"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Matters of Space",
-            "shop_url": "https://shop.mattersofspace.com/",
+            "shop_id": 11195850,
+            "shop_name": "Bombas",
+            "shop_url": "http://bombas.com/",
             "media": {
 
             },
             "products": [
-              "Dusen Dusen Slice Pillow",
-              "Ferm Living Landscape Cushion",
-              "6 Cup Chemex Coffee Maker"
+              "Womens All-Ankle Sock 12-Pack",
+              "Mens Merino Wool Calf Sock 8-Pack"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Max-Bone",
-            "shop_url": "https://www.max-bone.com/",
+            "shop_id": 11205322,
+            "shop_name": "Vineyard Fresh",
+            "shop_url": "https://www.vineyardfresh.com/",
             "media": {
 
             },
             "products": [
-              "Mouse Felt Toy"
+              "Wine Preserver"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "memobottle",
-            "shop_url": "https://www.memobottle.us/",
+            "shop_id": 11403964,
+            "shop_name": "Kikkerland",
+            "shop_url": "https://kikkerland.com/",
             "media": {
 
             },
             "products": [
-              "A7 memobottle"
+              "Pizza Night Light"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Meow Skateboards",
-            "shop_url": "https://meowskateboards.com/",
+            "shop_id": 11411330,
+            "shop_name": "Aquarium Fish Sale",
+            "shop_url": "https://www.aquariumfishsale.com/",
             "media": {
 
             },
             "products": [
-              "Vanessa Torres Your Paradise"
+              "Freshwater Fish"
             ]
           },
           {
-            "shop_id": "",
+            "shop_id": 11435434,
+            "shop_name": "Wallshoppe",
+            "shop_url": "https://www.wallshoppe.com/",
+            "media": {
+
+            },
+            "products": [
+              "Palm Shuffle Wallpaper"
+            ]
+          },
+          {
+            "shop_id": 11506518,
+            "shop_name": "Poly & Bark",
+            "shop_url": "https://www.polyandbark.com/",
+            "media": {
+
+            },
+            "products": [
+              "Jasper Daybed - Midnight Blue",
+              "Tangier Distressed Area Rug",
+              "La Fleur Distressed Medallion Area Rug",
+              "Zeno Globe 2-Light Wall Sconce",
+              "Retro Hylight Desk Lamp",
+              "Draper Office Chair",
+              "Rocker Lounge Chair",
+              "Signy Drum Accent Table with Marble Top - Antique Brass"
+            ]
+          },
+          {
+            "shop_id": 11550310,
+            "shop_name": "Brighton Beauty",
+            "shop_url": "https://brightonbeautysupply.com/",
+            "media": {
+
+            },
+            "products": [
+              "Framesi Coloring Tint Brush"
+            ]
+          },
+          {
+            "shop_id": 11593118,
+            "shop_name": "Schoolhouse",
+            "shop_url": "https://www.schoolhouse.com/",
+            "media": {
+
+            },
+            "products": [
+              "Schoolhouse Extendable Table"
+            ]
+          },
+          {
+            "shop_id": 11763548,
+            "shop_name": "Hazel Village",
+            "shop_url": "https://hazelvillage.com/",
+            "media": {
+
+            },
+            "products": [
+              "Lewis Toad"
+            ]
+          },
+          {
+            "shop_id": 11877310,
+            "shop_name": "Hudson Wilder",
+            "shop_url": "https://hudsonwilder.com/",
+            "media": {
+              "alt_text": "Alt text for this image",
+              "tablet_up": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/hudson-wilder.jpg",
+                  "dimensions": {
+                    "width": 588,
+                    "height": 464
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/hudson-wilder@2x.jpg",
+                  "dimensions": {
+                    "width": 1176,
+                    "height": 928
+                  }
+                }
+              },
+              "mobile": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/hudson-wilder.jpg",
+                  "dimensions": {
+                    "width": 750,
+                    "height": 462
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/hudson-wilder@2x.jpg",
+                  "dimensions": {
+                    "width": 1500,
+                    "height": 950
+                  }
+                }
+              }
+            },
+            "products": [
+              "Damek Charcoal Line Bowls"
+            ]
+          },
+          {
+            "shop_id": 11971680,
+            "shop_name": "Cape Clasp",
+            "shop_url": "https://www.capeclasp.com/",
+            "media": {
+
+            },
+            "products": [
+              "Whale Clasp"
+            ]
+          },
+          {
+            "shop_id": 12555759,
+            "shop_name": "Jennifer Meyer",
+            "shop_url": "https://jennifermeyer.com/",
+            "media": {
+
+            },
+            "products": [
+              "Mini Leaf Necklace"
+            ]
+          },
+          {
+            "shop_id": 12556547,
+            "shop_name": "Detroit Denim",
+            "shop_url": "https://detroitdenim.com/",
+            "media": {
+
+            },
+            "products": [
+              "Bandana",
+              "Crewneck Sweatshirt",
+              "Classic Cut"
+            ]
+          },
+          {
+            "shop_id": 13334083,
+            "shop_name": "Good Steps",
+            "shop_url": "https://www.goodsteps.com/",
+            "media": {
+
+            },
+            "products": [
+              "Women’s original"
+            ]
+          },
+          {
+            "shop_id": 13380845,
+            "shop_name": "Colour Pop",
+            "shop_url": "thttps://colourpop.com/",
+            "media": {
+
+            },
+            "products": [
+              "Makeup Brush Bundle"
+            ]
+          },
+          {
+            "shop_id": 13505613,
+            "shop_name": "Naturally Devine Wellness",
+            "shop_url": "https://www.naturallydevine.com/",
+            "media": {
+
+            },
+            "products": [
+              "Sweet Serene Oil"
+            ]
+          },
+          {
+            "shop_id": 13808957,
+            "shop_name": "Yoga Vida",
+            "shop_url": "https://yogavida.com",
+            "media": {
+
+            },
+            "products": [
+              "Yoga Vida Water Bottle, white"
+            ]
+          },
+          {
+            "shop_id": 13917351,
+            "shop_name": "Modern Relik",
+            "shop_url": "https://www.modernrelik.com/",
+            "media": {
+
+            },
+            "products": [
+              "African HALF ’n Half Basket"
+            ]
+          },
+          {
+            "shop_id": 13924193,
+            "shop_name": "ijji",
+            "shop_url": "https://ijji.co/",
+            "media": {
+
+            },
+            "products": [
+              "Canvas Work Pants"
+            ]
+          },
+          {
+            "shop_id": 14187404,
+            "shop_name": "Mini Melanie",
+            "shop_url": "https://minimelanie.com/",
+            "media": {
+
+            },
+            "products": [
+              "Signature Mix Box"
+            ]
+          },
+          {
+            "shop_id": 14245908,
             "shop_name": "Meso Goods",
             "shop_url": "https://www.mesogoods.com/",
             "media": {
@@ -1548,161 +1509,79 @@ module.exports = [
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Mini Melanie",
-            "shop_url": "https://minimelanie.com/",
+            "shop_id": 14636454,
+            "shop_name": "Casa Gear",
+            "shop_url": "https://casagear.com",
             "media": {
 
             },
             "products": [
-              "Signature Mix Box"
+              "Engage Upholstered Armchair Laguna",
+              "4D Concepts Arlington Wall Shelf with Desk",
+              "3 Piece Carpina Home Floating Ladder Shelf Office Desk",
+              "Risa End Table",
+              "Mango Wood Coffee Table"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Modern Relik",
-            "shop_url": "https://www.modernrelik.com/",
+            "shop_id": 14661978,
+            "shop_name": "Matters of Space",
+            "shop_url": "https://shop.mattersofspace.com/",
             "media": {
 
             },
             "products": [
-              "African HALF ’n Half Basket"
+              "Dusen Dusen Slice Pillow",
+              "Ferm Living Landscape Cushion",
+              "6 Cup Chemex Coffee Maker"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Modern Sprout",
-            "shop_url": "https://store.modsprout.com/",
+            "shop_id": 14807070,
+            "shop_name": "Will Leather Goods",
+            "shop_url": "https://willleathergoods.com/",
             "media": {
 
             },
             "products": [
-              "Mister"
+              "Reversible coaster set"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Modern Wood Cases",
-            "shop_url": "https://modernwoodcases.com/",
+            "shop_id": 15190256,
+            "shop_name": "Gex Worldwide",
+            "shop_url": "https://www.gexworldwide.com/",
             "media": {
 
             },
             "products": [
-              "Walnut - Black Protective Phone Case - 100% Real Wood"
+              "Gex Cork Canvas Block Head And Mannequin Head Tripod Combo"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Modernica",
-            "shop_url": "https://modernica.net/",
+            "shop_id": 15448089,
+            "shop_name": "Shay + Dash",
+            "shop_url": "https://www.shayanddash.com/",
             "media": {
 
             },
             "products": [
-              "Case Study Furniture® Fiberglass Demi Table",
-              "Case Study Furniture® Solid Wood Daybed with Arm"
+              "Rust Dainty Floral Scrunchie"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Modish Store",
-            "shop_url": "https://www.modishstore.com/",
-            "media": {
-              "alt_text": "Alt text for this image",
-              "tablet_up": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/modish-store.jpg",
-                  "dimensions": {
-                    "width": 588,
-                    "height": 464
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/modish-store@2x.jpg",
-                  "dimensions": {
-                    "width": 1176,
-                    "height": 928
-                  }
-                }
-              },
-              "mobile": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/modish-store.jpg",
-                  "dimensions": {
-                    "width": 750,
-                    "height": 462
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/modish-store@2x.jpg",
-                  "dimensions": {
-                    "width": 1500,
-                    "height": 950
-                  }
-                }
-              }
-            },
-            "products": [
-              "Kalalou Recycled Wooden Coat Rack With Rustic Hooks",
-              "Safavieh Iris Floor Lamp"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "ModShop",
-            "shop_url": "https://modshop1.com/",
+            "shop_id": 15834447,
+            "shop_name": "The Wing",
+            "shop_url": "https://shop.the-wing.com/",
             "media": {
 
             },
             "products": [
-              "Stool"
+              "Thankful For Myself Coasters"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Monster Children",
-            "shop_url": "https://shop.monsterchildren.com/",
-            "media": {
-              "alt_text": "Alt text for this image",
-              "tablet_up": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/monster-children.jpg",
-                  "dimensions": {
-                    "width": 712,
-                    "height": 428
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/monster-children@2x.jpg",
-                  "dimensions": {
-                    "width": 1424,
-                    "height": 856
-                  }
-                }
-              },
-              "mobile": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/monster-children.jpg",
-                  "dimensions": {
-                    "width": 750,
-                    "height": 462
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/monster-children@2x.jpg",
-                  "dimensions": {
-                    "width": 1500,
-                    "height": 950
-                  }
-                }
-              }
-            },
-            "products": [
-
-            ]
-          },
-          {
-            "shop_id": "",
+            "shop_id": 15904369,
             "shop_name": "Monument",
             "shop_url": "https://getmonument.com/",
             "media": {
@@ -1713,29 +1592,86 @@ module.exports = [
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Moop Shop",
-            "shop_url": "https://www.moopshop.com/",
+            "shop_id": 16339019,
+            "shop_name": "Pet Krewe",
+            "shop_url": "https://petkrewe.com/",
             "media": {
 
             },
             "products": [
-              "Backpack no.3 in Grey Wax"
+              "Sesame Street Cookie Monster Cat Toy"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Muir Way",
-            "shop_url": "https://muir-way.com/",
+            "shop_id": 16828743,
+            "shop_name": "1820 House",
+            "shop_url": "https://1820house.com/",
             "media": {
 
             },
             "products": [
-              "Carlsbad Caverns Relief Map"
+              "Rust Belt Collective candle"
             ]
           },
           {
-            "shop_id": "",
+            "shop_id": 16957617,
+            "shop_name": "Hijabs & Stuff",
+            "shop_url": "https://www.hijabsandstuff.com/",
+            "media": {
+
+            },
+            "products": [
+              "Turban - White Silver"
+            ]
+          },
+          {
+            "shop_id": 17066737,
+            "shop_name": "Puzzle Twist",
+            "shop_url": "https://www.puzzletwist.com/",
+            "media": {
+
+            },
+            "products": [
+              "Colorful Cats puzzle"
+            ]
+          },
+          {
+            "shop_id": 17083755,
+            "shop_name": "Feather Fox",
+            "shop_url": "https://www.featherfox.com.au/",
+            "media": {
+
+            },
+            "products": [
+              "Blue Paisley Women’s Scarf"
+            ]
+          },
+          {
+            "shop_id": 17154903,
+            "shop_name": "Scandiborn",
+            "shop_url": "https://www.scandiborn.com/",
+            "media": {
+
+            },
+            "products": [
+              "Cam Cam Elephant Soft Toy"
+            ]
+          },
+          {
+            "shop_id": 17219289,
+            "shop_name": "Wild Minimalist",
+            "shop_url": "https://wildminimalist.com/",
+            "media": {
+
+            },
+            "products": [
+              "Stainless Steel Lunchbox",
+              "Kids Insulated Stainless Steel Bottle",
+              "Wood Dish Brush"
+            ]
+          },
+          {
+            "shop_id": 17223237,
             "shop_name": "Mukata Being",
             "shop_url": "https://www.muktabeing.com/",
             "media": {
@@ -1748,73 +1684,52 @@ module.exports = [
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "My Buddy Tag",
-            "shop_url": "https://mybuddytag.com/",
+            "shop_id": 17243987,
+            "shop_name": "Eggy",
+            "shop_url": "https://www.shopeggy.com/",
             "media": {
 
             },
             "products": [
-              "Buddy Tag bracelet"
+              "Classic Footie Romper - White",
+              "Pink Beanie"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "My Three Cats & Co.",
-            "shop_url": "https://mythreecats.com/",
+            "shop_id": 17442037,
+            "shop_name": "Any Occasion Balloons",
+            "shop_url": "https://anyoccasionballoons.com/",
             "media": {
 
             },
             "products": [
-              "Abby Wool Cat Cave"
+              "Loose Balloons"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "MySushiSet.com",
-            "shop_url": "https://mysushiset.com/",
+            "shop_id": 17826559,
+            "shop_name": "memobottle",
+            "shop_url": "https://www.memobottle.us/",
             "media": {
 
             },
             "products": [
-              "Kyoto - Cherry Blossom Sushi Dinner Set for Two"
+              "A7 memobottle"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Nanoleaf",
-            "shop_url": "https://nanoleaf.me/",
+            "shop_id": 18502479,
+            "shop_name": "Horti",
+            "shop_url": "https://heyhorti.com/",
             "media": {
 
             },
             "products": [
-              "Nanoleaf Light Panels | Rhythm Edition"
+              "Old Fashioned mister"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Naturally Devine Wellness",
-            "shop_url": "https://www.naturallydevine.com/",
-            "media": {
-
-            },
-            "products": [
-              "Sweet Serene Oil"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Neu Year",
-            "shop_url": "https://www.neuyear.net/",
-            "media": {
-
-            },
-            "products": [
-              "Sunday Monochrome calendar"
-            ]
-          },
-          {
-            "shop_id": "",
+            "shop_id": 18600863,
             "shop_name": "Ode to Clean",
             "shop_url": "https://odetoclean.com/",
             "media": {
@@ -1825,18 +1740,578 @@ module.exports = [
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Olander Earthworks",
-            "shop_url": "https://www.olanderearthworks.com/",
+            "shop_id": 19092413,
+            "shop_name": "Nanoleaf",
+            "shop_url": "https://nanoleaf.me/",
             "media": {
 
             },
             "products": [
-              "Desktop Zen Garden - Prismatic Genius Pack"
+              "Nanoleaf Light Panels | Rhythm Edition"
             ]
           },
           {
-            "shop_id": "",
+            "shop_id": 19465421,
+            "shop_name": "Riverwood Acoustics",
+            "shop_url": "https://www.riverwoodacoustics.com/",
+            "media": {
+
+            },
+            "products": [
+              "The Hudson Premium Wood Bluetooth Speaker"
+            ]
+          },
+          {
+            "shop_id": 20599653,
+            "shop_name": "Flair and Paper",
+            "shop_url": "https://www.flairandpaper.com/",
+            "media": {
+
+            },
+            "products": [
+              "Hello Gorgeous Notepad"
+            ]
+          },
+          {
+            "shop_id": 20718281,
+            "shop_name": "Omami Mini",
+            "shop_url": "https://omamimini.com/",
+            "media": {
+
+            },
+            "products": [
+              "Play house art blocks"
+            ]
+          },
+          {
+            "shop_id": 20843549,
+            "shop_name": "Woody’s Home Brew",
+            "shop_url": "https://woodyshomebrew.com/",
+            "media": {
+
+            },
+            "products": [
+              "Brewbuilt Afterburner"
+            ]
+          },
+          {
+            "shop_id": 20915467,
+            "shop_name": "Facile",
+            "shop_url": "https://www.facileskin.com/",
+            "media": {
+
+            },
+            "products": [
+              "Tinted SPF"
+            ]
+          },
+          {
+            "shop_id": 21225755,
+            "shop_name": "Warphole Bags",
+            "shop_url": "https://warpholebags.com/",
+            "media": {
+
+            },
+            "products": [
+              "Black Game Time Logo Cap"
+            ]
+          },
+          {
+            "shop_id": 21338945,
+            "shop_name": "In The Vintage Kitchen Shop",
+            "shop_url": "https://shopinthevintagekitchen.com/",
+            "media": {
+
+            },
+            "products": [
+              "Vintage Wooden Fruit Crate"
+            ]
+          },
+          {
+            "shop_id": 21727975,
+            "shop_name": "Unique Corals",
+            "shop_url": "https://uniquecorals.com/",
+            "media": {
+
+            },
+            "products": [
+              "Fish Tank"
+            ]
+          },
+          {
+            "shop_id": 21788307,
+            "shop_name": "Blacksaw",
+            "shop_url": "https://blacksaw.co/",
+            "media": {
+
+            },
+            "products": [
+              "Yoko Reversible Throw"
+            ]
+          },
+          {
+            "shop_id": 21788939,
+            "shop_name": "Tuliptable",
+            "shop_url": "https://tuliptable.com/",
+            "media": {
+
+            },
+            "products": [
+              "Bianca Neve Calacatta Quartz© Tulip Dining Table - Oval"
+            ]
+          },
+          {
+            "shop_id": 22459625,
+            "shop_name": "Fringe Studio",
+            "shop_url": "https://petshop.fringestudio.com/",
+            "media": {
+
+            },
+            "products": [
+              "Gallery Detroit Pet Bowl",
+              "Rosé Dog Toy",
+              "Funny Cat Canvas Tote",
+              "Miss Kitty Canvas Dog Toy",
+              "Good Doggie Ceramic Treat Jar"
+            ]
+          },
+          {
+            "shop_id": 22917581,
+            "shop_name": "Cook Potluck",
+            "shop_url": "https://cookpotluck.com/",
+            "media": {
+
+            },
+            "products": [
+              "Utensil Set"
+            ]
+          },
+          {
+            "shop_id": 23583785,
+            "shop_name": "LunchSkins",
+            "shop_url": "https://www.lunchskins.com/",
+            "media": {
+
+            },
+            "products": [
+              "Reusable Snack Bag Red Cactus"
+            ]
+          },
+          {
+            "shop_id": 23862119,
+            "shop_name": "Lovevery",
+            "shop_url": "https://lovevery.com/",
+            "media": {
+
+            },
+            "products": [
+              "The Play Gym"
+            ]
+          },
+          {
+            "shop_id": 24294551,
+            "shop_name": "Phone Charger & Santizer",
+            "shop_url": "https://www.phonesoap.com/",
+            "media": {
+
+            },
+            "products": [
+              "PhoneSoap 3"
+            ]
+          },
+          {
+            "shop_id": 25281364,
+            "shop_name": "Saflon",
+            "shop_url": "https://saflon.us/",
+            "media": {
+
+            },
+            "products": [
+              "Stainless Steel 14 Piece Cookware Set"
+            ]
+          },
+          {
+            "shop_id": 25360712,
+            "shop_name": "Ruppert Garden Tools",
+            "shop_url": "https://ruppertgardentools.com/",
+            "media": {
+
+            },
+            "products": [
+              "The Weed Snatcher",
+              "The Dirt Snatcher"
+            ]
+          },
+          {
+            "shop_id": 25578570,
+            "shop_name": "And Comfort",
+            "shop_url": "https://www.andcomfort.com/",
+            "media": {
+
+            },
+            "products": [
+              "The Cambridge Tie Dress"
+            ]
+          },
+          {
+            "shop_id": 25929046,
+            "shop_name": "Soludos",
+            "shop_url": "https://www.soludos.com/",
+            "media": {
+
+            },
+            "products": [
+              "Ashore Sneaker"
+            ]
+          },
+          {
+            "shop_id": 26210424,
+            "shop_name": "Glove Nation",
+            "shop_url": "https://glovenation.com/",
+            "media": {
+
+            },
+            "products": [
+              "Bandit Black Powder Free Vinyl Gloves"
+            ]
+          },
+          {
+            "shop_id": 26328792,
+            "shop_name": "Kebbek Skateboards",
+            "shop_url": "https://www.kebbekskateboards.com/",
+            "media": {
+
+            },
+            "products": [
+              "Tepakan Wheels"
+            ]
+          },
+          {
+            "shop_id": 26456534,
+            "shop_name": "France & Son",
+            "shop_url": "https://www.franceandson.com/",
+            "media": {
+
+            },
+            "products": [
+              "Atlas 1 Light Floor Lamp"
+            ]
+          },
+          {
+            "shop_id": 26603156,
+            "shop_name": "Dodo Case",
+            "shop_url": "https://www.dodocase.com/",
+            "media": {
+
+            },
+            "products": [
+              "Durable Portfolio Case"
+            ]
+          },
+          {
+            "shop_id": 26657478,
+            "shop_name": "Olive & June",
+            "shop_url": "https://oliveandjune.com/",
+            "media": {
+
+            },
+            "products": [
+              "ECC Nail Polish"
+            ]
+          },
+          {
+            "shop_id": 27087620,
+            "shop_name": "Kin Euphorics",
+            "shop_url": "https://shop.kineuphorics.com/",
+            "media": {
+
+            },
+            "products": [
+              "High Rhode"
+            ]
+          },
+          {
+            "shop_id": 27227484,
+            "shop_name": "Aloha Bars",
+            "shop_url": "https://aloha.com/",
+            "media": {
+
+            },
+            "products": [
+              "Peanut Butter Chocolate Chip Protein Bar"
+            ]
+          },
+          {
+            "shop_id": 27682664,
+            "shop_name": "Modern Wood Cases",
+            "shop_url": "https://modernwoodcases.com/",
+            "media": {
+
+            },
+            "products": [
+              "Walnut - Black Protective Phone Case - 100% Real Wood"
+            ]
+          },
+          {
+            "shop_id": 27826294,
+            "shop_name": "Pop It Pal",
+            "shop_url": "https://popitpal.com/",
+            "media": {
+
+            },
+            "products": [
+              {
+                "Pop It Pal® Glitter Edition": "Pimple Popping Toy With Refillable Glitter Pus"
+              }
+            ]
+          },
+          {
+            "shop_id": 28041216,
+            "shop_name": "Lux Eros",
+            "shop_url": "https://lux-eros.com/",
+            "media": {
+
+            },
+            "products": [
+              "Pyramid Pet - Envy"
+            ]
+          },
+          {
+            "shop_id": 29551596,
+            "shop_name": "Olivia Garden",
+            "shop_url": "https://store.oliviagarden.com/",
+            "media": {
+
+            },
+            "products": [
+              "Charm Apron Teal"
+            ]
+          },
+          {
+            "shop_id": 29601850,
+            "shop_name": "Swallowtail",
+            "shop_url": "www.swallowtailtea.com",
+            "media": {
+
+            },
+            "products": [
+              "Bright Morning Stars Mental Clarity Blend"
+            ]
+          },
+          {
+            "shop_id": 29896066,
+            "shop_name": "Bakell",
+            "shop_url": "https://bakell.com/",
+            "media": {
+
+            },
+            "products": [
+              "Airbrush Professional Series Gun Kit"
+            ]
+          },
+          {
+            "shop_id": 29927384,
+            "shop_name": "Liquid Sands Glass Gallery",
+            "shop_url": "https://liquidsandsgallery.com/",
+            "media": {
+
+            },
+            "products": [
+              "Cane Bowls"
+            ]
+          },
+          {
+            "shop_id": 372932672,
+            "shop_name": "Baby Tress",
+            "shop_url": "https://babytress.com/",
+            "media": {
+
+            },
+            "products": [
+              "Edge Styler"
+            ]
+          },
+          {
+            "shop_id": 423329852,
+            "shop_name": "Depuis Toujours",
+            "shop_url": "https://toujours.tv/",
+            "media": {
+
+            },
+            "products": [
+              "Herringbone Tweed & Corduroy Bomber"
+            ]
+          },
+          {
+            "shop_id": 1161658421,
+            "shop_name": "Fluff Alpaca",
+            "shop_url": "https://fluffalpaca.com/",
+            "media": {
+
+            },
+            "products": [
+              "Mens Jersey Knit V-Neck Sweater",
+              "Ouef Cloud Pillow"
+            ]
+          },
+          {
+            "shop_id": 1320812591,
+            "shop_name": "I Love Smencils",
+            "shop_url": "https://ilovesmencils.com/",
+            "media": {
+
+            },
+            "products": [
+              "Tri-Color Grip Smens"
+            ]
+          },
+          {
+            "shop_id": 1546518592,
+            "shop_name": "Coterie Party",
+            "shop_url": "https://coterieparty.com",
+            "media": {
+
+            },
+            "products": [
+              "Number Balloon Bouquet"
+            ]
+          },
+          {
+            "shop_id": 1983610978,
+            "shop_name": "Modern Sprout",
+            "shop_url": "https://store.modsprout.com/",
+            "media": {
+
+            },
+            "products": [
+              "Mister"
+            ]
+          },
+          {
+            "shop_id": 2016215085,
+            "shop_name": "PetWineShop",
+            "shop_url": "https://petwineshop.com/",
+            "media": {
+
+            },
+            "products": [
+              "Pinot Meow Cat Wine"
+            ]
+          },
+          {
+            "shop_id": 2222587969,
+            "shop_name": "Modernica",
+            "shop_url": "https://modernica.net/",
+            "media": {
+
+            },
+            "products": [
+              "Case Study Furniture® Fiberglass Demi Table",
+              "Case Study Furniture® Solid Wood Daybed with Arm"
+            ]
+          },
+          {
+            "shop_id": 2248474690,
+            "shop_name": "Heart Bowl",
+            "shop_url": "https://myheartbowl.com/",
+            "media": {
+
+            },
+            "products": [
+              "Ceramic Heart Bowl 2.0"
+            ]
+          },
+          {
+            "shop_id": 2315911268,
+            "shop_name": "On2Pets",
+            "shop_url": "https://on2pets.com/",
+            "media": {
+
+            },
+            "products": [
+              "On2Pets Large Square Luxury Cat Tree"
+            ]
+          },
+          {
+            "shop_id": 2335506497,
+            "shop_name": "Bibim Paws",
+            "shop_url": "https://bibimpaws.com",
+            "media": {
+
+            },
+            "products": [
+              "Cod Liver Oil - Pet Supplement",
+              "Turducken Me - Turkey + Duck Jerky Treats for Cats + Dogs",
+              "DIY Superfood Sauce Mix"
+            ]
+          },
+          {
+            "shop_id": 2366046265,
+            "shop_name": "Cat Tree King",
+            "shop_url": "https://cattreeking.com/",
+            "media": {
+
+            },
+            "products": [
+              "Cat Mansion Beige"
+            ]
+          },
+          {
+            "shop_id": 2676719676,
+            "shop_name": "Bripe",
+            "shop_url": "https://briping.com/",
+            "media": {
+
+            },
+            "products": [
+              "Coffee Brew Pipe Kit"
+            ]
+          }
+        ]
+      },
+      {
+        "section_id": 5,
+        "layout": "left",
+        "label": "",
+        "media": {
+
+        },
+        "merchants": [
+          {
+            "shop_id": 2695790705,
+            "shop_name": "Allan’s Pet Center",
+            "shop_url": "https://allanspetcenter.com/",
+            "media": {
+
+            },
+            "products": [
+              "Tank Decorations"
+            ]
+          },
+          {
+            "shop_id": 2983264314,
+            "shop_name": "The Baby Buddy",
+            "shop_url": "https://thebabybuddy.ca/",
+            "media": {
+
+            },
+            "products": [
+              "Nursing Pillow - SuperSoft Teal Bubble"
+            ]
+          },
+          {
+            "shop_id": 3592749129,
+            "shop_name": "EAP Innovations",
+            "shop_url": "www.eapinnovations.com",
+            "media": {
+
+            },
+            "products": [
+              "Anchor 11221 16 Oz Round Mason Jar"
+            ]
+          },
+          {
+            "shop_id": 3629776996,
             "shop_name": "Henning NYC",
             "shop_url": "https://henningnyc.com/",
             "media": {
@@ -1848,130 +2323,7 @@ module.exports = [
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Olive & June",
-            "shop_url": "https://oliveandjune.com/",
-            "media": {
-
-            },
-            "products": [
-              "ECC Nail Polish"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Olivia Garden",
-            "shop_url": "https://store.oliviagarden.com/",
-            "media": {
-
-            },
-            "products": [
-              "Charm Apron Teal"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Omami Mini",
-            "shop_url": "https://omamimini.com/",
-            "media": {
-
-            },
-            "products": [
-              "Play house art blocks"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "On2Pets",
-            "shop_url": "https://on2pets.com/",
-            "media": {
-
-            },
-            "products": [
-              "On2Pets Large Square Luxury Cat Tree"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Only NY",
-            "shop_url": "https://onlyny.com/",
-            "media": {
-
-            },
-            "products": [
-              "Service T-Shirt",
-              "Hudson Twill Pants - Black",
-              "PRO-Keds Royal Lo Plus"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Originative Co.",
-            "shop_url": "https://www.originativeco.com/",
-            "media": {
-
-            },
-            "products": [
-              "Saber 68 Keyboard",
-              "POK3R RGB Keyboard"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Parachute",
-            "shop_url": "https://www.parachutehome.com/",
-            "media": {
-
-            },
-            "products": [
-              "Alpaca Lumbar Pillow"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Pet Krewe",
-            "shop_url": "https://petkrewe.com/",
-            "media": {
-
-            },
-            "products": [
-              "Sesame Street Cookie Monster Cat Toy"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "PetWineShop",
-            "shop_url": "https://petwineshop.com/",
-            "media": {
-
-            },
-            "products": [
-              "Pinot Meow Cat Wine"
-            ]
-          }
-        ]
-      },
-      {
-        "section_id": 4,
-        "layout": "left",
-        "label": "",
-        "media": {
-
-        },
-        "merchants": [
-          {
-            "shop_id": "",
-            "shop_name": "Phone Charger & Santizer",
-            "shop_url": "https://www.phonesoap.com/",
-            "media": {
-
-            },
-            "products": [
-              "PhoneSoap 3"
-            ]
-          },
-          {
-            "shop_id": "",
+            "shop_id": 14635858,
             "shop_name": "Pixi Beauty",
             "shop_url": "https://www.pixibeauty.com/",
             "media": {
@@ -2014,104 +2366,173 @@ module.exports = [
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Pocketalk",
-            "shop_url": "https://www.pocketalk.net/",
+            "shop_id": 3980099654,
+            "shop_name": "Light Provisions",
+            "shop_url": "https://www.lightprovisions.com/",
             "media": {
 
             },
             "products": [
-              "Pocketalk Voice Translator"
+              "Beeswax Taper Candles"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Poketo",
-            "shop_url": "https://www.poketo.com/",
+            "shop_id": 4382261337,
+            "shop_name": "Essence Luxe Couture",
+            "shop_url": "https://essenceluxecouture.com/",
             "media": {
 
             },
             "products": [
-              "Bamboo Coasters in Abstract Set"
+              "Multiple Wigs"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Poly & Bark",
-            "shop_url": "https://www.polyandbark.com/",
+            "shop_id": 4431478899,
+            "shop_name": "Kuze",
+            "shop_url": "https://kuzefukuandsons.com/",
             "media": {
 
             },
             "products": [
-              "Jasper Daybed - Midnight Blue",
-              "Tangier Distressed Area Rug",
-              "La Fleur Distressed Medallion Area Rug",
-              "Zeno Globe 2-Light Wall Sconce",
-              "Retro Hylight Desk Lamp",
-              "Draper Office Chair",
-              "Rocker Lounge Chair",
-              "Signy Drum Accent Table with Marble Top - Antique Brass"
+              "Organic Fruit Vinegar Drink"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Pop It Pal",
-            "shop_url": "https://popitpal.com/",
+            "shop_id": 4465066084,
+            "shop_name": "Chad Isham",
+            "shop_url": "https://shop.chadisham.com",
             "media": {
 
             },
             "products": [
-              {
-                "Pop It Pal® Glitter Edition": "Pimple Popping Toy With Refillable Glitter Pus"
-              }
+              "Vintage Moroccan Rug",
+              "Vintage Wall Lamp"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Puzzle Twist",
-            "shop_url": "https://www.puzzletwist.com/",
+            "shop_id": 4650696817,
+            "shop_name": "Vessi",
+            "shop_url": "https://vessifootwear.com/",
             "media": {
 
             },
             "products": [
-              "Colorful Cats puzzle"
+              "Womens Cityscape",
+              "Mens Everday"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Queen Majesty Hot Sauce",
-            "shop_url": "queenmajestyhotsauce.com",
+            "shop_id": 5286297671,
+            "shop_name": "1767 Designs",
+            "shop_url": "https://1767designs.com/",
             "media": {
 
             },
             "products": [
-              "Queen Majesty Hot Sauce Trinity"
+              "Ensley - Copper wall art"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Retro Radio Farm",
-            "shop_url": "https://www.retroradiofarm.com/",
+            "shop_id": 5436801113,
+            "shop_name": "HairArt",
+            "shop_url": "https://hairartproducts.com/",
             "media": {
 
             },
             "products": [
-              "Gumby Green 1950s Airline AM Tube Radio"
+              "Deluxe Display Mannequins"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Riverwood Acoustics",
-            "shop_url": "https://www.riverwoodacoustics.com/",
+            "shop_id": 6105727045,
+            "shop_name": "A Good Company",
+            "shop_url": "https://agood.com/",
             "media": {
 
             },
             "products": [
-              "The Hudson Premium Wood Bluetooth Speaker"
+              "A Good Glue Stick"
+            ]
+          }
+        ]
+      },
+      {
+        "section_id": 6,
+        "layout": "right",
+        "label": "",
+        "media": {
+
+        },
+        "merchants": [
+          {
+            "shop_id": 6819741753,
+            "shop_name": "Schoolhouse Woodcrafts",
+            "shop_url": "https://schoolhousewoodcrafts.com/",
+            "media": {
+
+            },
+            "products": [
+              "White birch decorative birdhouse"
             ]
           },
           {
-            "shop_id": "",
+            "shop_id": 6894944323,
+            "shop_name": "Boysmells",
+            "shop_url": "https://boysmells.com/",
+            "media": {
+
+            },
+            "products": [
+              "Cinderose candle"
+            ]
+          },
+          {
+            "shop_id": 7049904194,
+            "shop_name": "CatSchool.co",
+            "shop_url": "https://www.catschool.co/",
+            "media": {
+
+            },
+            "products": [
+              "The Cat Training Kit"
+            ]
+          },
+          {
+            "shop_id": 7281508418,
+            "shop_name": "MySushiSet.com",
+            "shop_url": "https://mysushiset.com/",
+            "media": {
+
+            },
+            "products": [
+              "Kyoto - Cherry Blossom Sushi Dinner Set for Two"
+            ]
+          },
+          {
+            "shop_id": 7614922867,
+            "shop_name": "Elizabeth Benotti Ceramics",
+            "shop_url": "https://elizabethbenotti.com/",
+            "media": {
+
+            },
+            "products": [
+              "Round Pinched Planter"
+            ]
+          },
+          {
+            "shop_id": 8027963489,
+            "shop_name": "Mac Demarco",
+            "shop_url": "https://shop.mac-demarco.com/",
+            "media": {
+
+            },
+            "products": [
+              "Mac’s Record Label"
+            ]
+          },
+          {
+            "shop_id": 8817508410,
             "shop_name": "RockerMama",
             "shop_url": "https://rockermama.com/",
             "media": {
@@ -2122,411 +2543,60 @@ module.exports = [
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Ruppert Garden Tools",
-            "shop_url": "https://ruppertgardentools.com/",
+            "shop_id": 9251323961,
+            "shop_name": "Leopara Makeup Lights",
+            "shop_url": "https://leopara.com/",
             "media": {
 
             },
             "products": [
-              "The Weed Snatcher",
-              "The Dirt Snatcher"
+              "Leopara Makeup Lighting System"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Shay + Dash",
-            "shop_url": "https://www.shayanddash.com/",
+            "shop_id": 10501587002,
+            "shop_name": "Casa Blanca Coffee",
+            "shop_url": "https://www.casablancacoffee.co/",
             "media": {
 
             },
             "products": [
-              "Rust Dainty Floral Scrunchie"
+              "Casa Blanca Logo Mug"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "SkateTrainer",
-            "shop_url": "https://www.skatertrainer.com/",
+            "shop_id": 13435469881,
+            "shop_name": "Pocketalk",
+            "shop_url": "https://www.pocketalk.net/",
             "media": {
 
             },
             "products": [
-              "SkaterTrainer 2.0’s"
+              "Pocketalk Voice Translator"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Soludos",
-            "shop_url": "https://www.soludos.com/",
+            "shop_id": 14608629808,
+            "shop_name": "Kinto",
+            "shop_url": "https://kinto-usa.com/",
             "media": {
 
             },
             "products": [
-              "Ashore Sneaker"
+              "Aqua Culture Vase 80mm"
             ]
           },
           {
-            "shop_id": "",
-            "shop_name": "Spike Brewing",
-            "shop_url": "https://spikebrewing.com/",
-            "media": {
-              "alt_text": "Alt text for this image",
-              "tablet_up": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/spike-brewing.jpg",
-                  "dimensions": {
-                    "width": 588,
-                    "height": 464
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/spike-brewing@2x.jpg",
-                  "dimensions": {
-                    "width": 1176,
-                    "height": 928
-                  }
-                }
-              },
-              "mobile": {
-                "small": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/spike-brewing.jpg",
-                  "dimensions": {
-                    "width": 750,
-                    "height": 462
-                  }
-                },
-                "large": {
-                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/spike-brewing@2x.jpg",
-                  "dimensions": {
-                    "width": 1500,
-                    "height": 950
-                  }
-                }
-              }
-            },
-            "products": [
-              "Spike Plus Kettle"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Spinster Records",
-            "shop_url": "https://www.spinsterrecords.com/",
+            "shop_id": 25340477537,
+            "shop_name": "Flair Home Collection",
+            "shop_url": "https://flairhomecollection.com/",
             "media": {
 
             },
             "products": [
-              "T1 Phono SB Turntable - Walnut"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "St. Frank",
-            "shop_url": "https://stfrank.com/",
-            "media": {
-
-            },
-            "products": [
-              "Havana",
-              "In the Spirit of Bali",
-              "Visionary Women",
-              "Roma",
-              "Teak Tree Root Bowl"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Studio Neat",
-            "shop_url": "https://www.studioneat.com/",
-            "media": {
-
-            },
-            "products": [
-              "Mark One Pen"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Swallowtail",
-            "shop_url": "www.swallowtailtea.com",
-            "media": {
-
-            },
-            "products": [
-              "Bright Morning Stars Mental Clarity Blend"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "The Baby Buddy",
-            "shop_url": "https://thebabybuddy.ca/",
-            "media": {
-
-            },
-            "products": [
-              "Nursing Pillow - SuperSoft Teal Bubble"
-            ]
-          }
-        ]
-      },
-      {
-        "section_id": 5,
-        "layout": "right",
-        "label": "",
-        "media": {
-
-        },
-        "merchants": [
-          {
-            "shop_id": "",
-            "shop_name": "The Citizenry",
-            "shop_url": "https://www.the-citizenry.com/",
-            "media": {
-
-            },
-            "products": [
-              "Palermo Tripolina Camp Stool",
-              "Palermo Chair - Black & Grey Cowhide",
-              "Parthiv Chunky Jute Rug"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "The Henna Guys",
-            "shop_url": "https://thehennaguys.com",
-            "media": {
-
-            },
-            "products": [
-              "Deep Red Henna Hair Dye"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "The Sill",
-            "shop_url": "https://www.thesill.com/",
-            "media": {
-
-            },
-            "products": [
-              "Various Live Plants",
-              "Organic Potting Mix",
-              "Ask Me About My Plants tote bag",
-              "Coffee, Cats and Plants T-Shirt",
-              "Proud Plant Parent Tee"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "The Wing",
-            "shop_url": "https://shop.the-wing.com/",
-            "media": {
-
-            },
-            "products": [
-              "Thankful For Myself Coasters"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "The Wooden States",
-            "shop_url": "https://www.thewoodenstates.com/",
-            "media": {
-
-            },
-            "products": [
-              "New York Magnetic Key Holder"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Time In Color",
-            "shop_url": "https://timeincolor.com/",
-            "media": {
-
-            },
-            "products": [
-              "Today clock"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Tuliptable",
-            "shop_url": "https://tuliptable.com/",
-            "media": {
-
-            },
-            "products": [
-              "Bianca Neve Calacatta Quartz© Tulip Dining Table - Oval"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Turntable Lab",
-            "shop_url": "https://www.turntablelab.com/",
-            "media": {
-
-            },
-            "products": [
-              "T1 Phono SB Turntable"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Two Wheel Gear",
-            "shop_url": "https://www.twowheelgear.com/",
-            "media": {
-
-            },
-            "products": [
-              "Mini Messenger Handlebar Bag"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Unique Corals",
-            "shop_url": "https://uniquecorals.com/",
-            "media": {
-
-            },
-            "products": [
-              "Fish Tank"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Vessi",
-            "shop_url": "https://vessifootwear.com/",
-            "media": {
-
-            },
-            "products": [
-              "Women\"s Cityscape",
-              "Men\"s Everday"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Vineyard Fresh",
-            "shop_url": "https://www.vineyardfresh.com/",
-            "media": {
-
-            },
-            "products": [
-              "Wine Preserver"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Wallshoppe",
-            "shop_url": "https://www.wallshoppe.com/",
-            "media": {
-
-            },
-            "products": [
-              "Palm Shuffle Wallpaper"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Walnut Studio",
-            "shop_url": "https://walnutstudiolo.com/",
-            "media": {
-
-            },
-            "products": [
-              "Leather Cabinet Handle - The Lovejoy"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Warphole Bags",
-            "shop_url": "https://warpholebags.com/",
-            "media": {
-
-            },
-            "products": [
-              "Black Game Time Logo Cap"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Who Gives A Crap",
-            "shop_url": "https://au.whogivesacrap.org/",
-            "media": {
-
-            },
-            "products": [
-              "Forest friendly tissues"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Whoa Nelli",
-            "shop_url": "https://www.whoanelli.com/",
-            "media": {
-
-            },
-            "products": [
-              "Natural Household Cleaners"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Wild Minimalist",
-            "shop_url": "https://wildminimalist.com/",
-            "media": {
-
-            },
-            "products": [
-              "Stainless Steel Lunchbox",
-              "Kid\"s Insulated Stainless Steel Bottle",
-              "Wood Dish Brush"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Will Leather Goods",
-            "shop_url": "https://willleathergoods.com/",
-            "media": {
-
-            },
-            "products": [
-              "Reversible coaster set"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Woody’s Home Brew",
-            "shop_url": "https://woodyshomebrew.com/",
-            "media": {
-
-            },
-            "products": [
-              "Brewbuilt Afterburner"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Yo Sox",
-            "shop_url": "https://www.yo-sox.com/",
-            "media": {
-
-            },
-            "products": [
-              "Socks"
-            ]
-          },
-          {
-            "shop_id": "",
-            "shop_name": "Yoga Vida",
-            "shop_url": "https://yogavida.com",
-            "media": {
-
-            },
-            "products": [
-              "Yoga Vida Water Bottle, white"
+              "Vintage Beni Ourain Rug",
+              "Vintage Milo Baughman Barrel Back Lounge Chair in Camel Velvet",
+              "Beni Ourain Moroccan Rug Diamond Pattern"
             ]
           }
         ]
@@ -2542,7 +2612,7 @@ module.exports = [
     "sections": [
       {
         "section_id": 1,
-        "layout": "right",
+        "layout": "left",
         "label": "",
         "media": {
 
@@ -2589,7 +2659,7 @@ module.exports = [
 
             },
             "products": [
-              "Dead sea soap"
+              "Dead Sea Soap"
             ]
           },
           {
@@ -2611,7 +2681,7 @@ module.exports = [
 
             },
             "products": [
-              "Lovestruck soap"
+              "Bar Soap"
             ]
           },
           {
@@ -2633,7 +2703,7 @@ module.exports = [
 
             },
             "products": [
-              "Amour soap bar"
+              "Amour Soap Bar"
             ]
           },
           {
@@ -2745,17 +2815,7 @@ module.exports = [
             "products": [
               "Five More Minutes Eye Mask"
             ]
-          }
-        ]
-      },
-      {
-        "section_id": 2,
-        "layout": "center",
-        "label": "",
-        "media": {
-
-        },
-        "merchants": [
+          },
           {
             "shop_id": 6527221,
             "shop_name": "HexComix",
@@ -2774,7 +2834,39 @@ module.exports = [
             "shop_name": "TKO",
             "shop_url": "https://tkopresents.com/",
             "media": {
-
+              "alt_text": "Alt text for this image",
+              "tablet_up": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/tko-studios.jpg",
+                  "dimensions": {
+                    "width": 588,
+                    "height": 409
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/tko-studios@2x.jpg",
+                  "dimensions": {
+                    "width": 1176,
+                    "height": 818
+                  }
+                }
+              },
+              "mobile": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/tko-studios.jpg",
+                  "dimensions": {
+                    "width": 750,
+                    "height": 458
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/tko-studios@2x.jpg",
+                  "dimensions": {
+                    "width": 1500,
+                    "height": 917
+                  }
+                }
+              }
             },
             "products": [
               "The Fearsome Doctor Fang"
@@ -2907,7 +2999,39 @@ module.exports = [
             "shop_name": "Wild One",
             "shop_url": "https://wildone.com/",
             "media": {
-
+              "alt_text": "Alt text for this image",
+              "tablet_up": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/wild-one.jpg",
+                  "dimensions": {
+                    "width": 588,
+                    "height": 409
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/wild-one@2x.jpg",
+                  "dimensions": {
+                    "width": 1176,
+                    "height": 818
+                  }
+                }
+              },
+              "mobile": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/wild-one.jpg",
+                  "dimensions": {
+                    "width": 750,
+                    "height": 458
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/wild-one@2x.jpg",
+                  "dimensions": {
+                    "width": 1500,
+                    "height": 917
+                  }
+                }
+              }
             },
             "products": [
               "Home Kit"
@@ -3017,7 +3141,39 @@ module.exports = [
             "shop_name": "modish",
             "shop_url": "https://www.modishstore.com",
             "media": {
-
+              "alt_text": "Alt text for this image",
+              "tablet_up": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/modish-store.jpg",
+                  "dimensions": {
+                    "width": 588,
+                    "height": 464
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/modish-store@2x.jpg",
+                  "dimensions": {
+                    "width": 1176,
+                    "height": 928
+                  }
+                }
+              },
+              "mobile": {
+                "small": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/modish-store.jpg",
+                  "dimensions": {
+                    "width": 750,
+                    "height": 462
+                  }
+                },
+                "large": {
+                  "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/modish-store@2x.jpg",
+                  "dimensions": {
+                    "width": 1500,
+                    "height": 950
+                  }
+                }
+              }
             },
             "products": [
               "Kalalou Round Multi-Color Ceramic Vases"
@@ -3054,17 +3210,6 @@ module.exports = [
             },
             "products": [
               "Beach planter"
-            ]
-          },
-          {
-            "shop_id": 10202551,
-            "shop_name": "Hawkins New York",
-            "shop_url": "https://www.hawkinsnewyork.com/",
-            "media": {
-
-            },
-            "products": [
-              "Mara Marble Bowls"
             ]
           },
           {
@@ -3195,7 +3340,39 @@ module.exports = [
         "layout": "center",
         "label": "Shelf Row One",
         "media": {
-
+          "alt_text": "Alt text for this image",
+          "tablet_up": {
+            "small": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/social-shelf-one.jpg",
+              "dimensions": {
+                "width": 588,
+                "height": 299
+              }
+            },
+            "large": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/social-shelf-one@2x.jpg",
+              "dimensions": {
+                "width": 1176,
+                "height": 598
+              }
+            }
+          },
+          "mobile": {
+            "small": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/social-shelf-one.jpg",
+              "dimensions": {
+                "width": 750,
+                "height": 381
+              }
+            },
+            "large": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/social-shelf-one@2x.jpg",
+              "dimensions": {
+                "width": 1500,
+                "height": 763
+              }
+            }
+          }
         },
         "merchants": [
           {
@@ -3218,7 +3395,8 @@ module.exports = [
             },
             "products": [
               "Household Scissors",
-              "Heavy Duty Scissors - 6"
+              "Heavy Duty Scissors",
+              "6” All Purpose Utility Scissors"
             ]
           },
           {
@@ -3239,7 +3417,39 @@ module.exports = [
         "layout": "center",
         "label": "Shelf Row Two",
         "media": {
-
+          "alt_text": "Alt text for this image",
+          "tablet_up": {
+            "small": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/social-shelf-two.jpg",
+              "dimensions": {
+                "width": 588,
+                "height": 299
+              }
+            },
+            "large": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/social-shelf-two@2x.jpg",
+              "dimensions": {
+                "width": 1176,
+                "height": 598
+              }
+            }
+          },
+          "mobile": {
+            "small": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/social-shelf-two.jpg",
+              "dimensions": {
+                "width": 750,
+                "height": 381
+              }
+            },
+            "large": {
+              "url": "https://cdn.shopify.com/static/images/brand-equity/mobile/social-shelf-two@2x.jpg",
+              "dimensions": {
+                "width": 1500,
+                "height": 763
+              }
+            }
+          }
         },
         "merchants": [
           {
@@ -3295,17 +3505,6 @@ module.exports = [
             },
             "products": [
               "Capri Body Lotion"
-            ]
-          },
-          {
-            "shop_id": 14635858,
-            "shop_name": "Pixi Beauty",
-            "shop_url": "https://www.pixibeauty.com/",
-            "media": {
-
-            },
-            "products": [
-              "Black Lacquer Lash Primer"
             ]
           },
           {
@@ -3405,6 +3604,17 @@ module.exports = [
             "products": [
               "Pancake Art Kit"
             ]
+          },
+          {
+            "shop_id": 21132635,
+            "shop_name": "Oatly",
+            "shop_url": "https://us.oatly.com/",
+            "media": {
+
+            },
+            "products": [
+              "The Original Oatly Oat Milk"
+            ]
           }
         ]
       },
@@ -3416,17 +3626,6 @@ module.exports = [
 
         },
         "merchants": [
-          {
-            "shop_id": 21132635,
-            "shop_name": "Oatly",
-            "shop_url": "https://us.oatly.com/",
-            "media": {
-
-            },
-            "products": [
-              "The Original Oatly Oat Milk"
-            ]
-          },
           {
             "shop_id": 13532297,
             "shop_name": "Kitchen Depot",
@@ -3448,17 +3647,7 @@ module.exports = [
             "products": [
               "Dashi Big Apron"
             ]
-          }
-        ]
-      },
-      {
-        "section_id": 7,
-        "layout": "right",
-        "label": "Shelf Row Seven",
-        "media": {
-
-        },
-        "merchants": [
+          },
           {
             "shop_id": 11506518,
             "shop_name": "Poly & Bark",
@@ -3496,4 +3685,4 @@ module.exports = [
       }
     ]
   }
-];
+]
