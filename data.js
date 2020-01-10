@@ -134,6 +134,7 @@ module.exports = [
             "shop_url": "https://spikebrewing.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/spike-brewing.jpg",
@@ -304,6 +305,7 @@ module.exports = [
             "shop_url": "https://shop.monsterchildren.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/monster-children.jpg",
@@ -660,6 +662,7 @@ module.exports = [
             "shop_url": "https://meowskateboards.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/meow-skateboard.jpg",
@@ -796,6 +799,7 @@ module.exports = [
             "shop_url": "https://mykinderpack.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/kinderpack.jpg",
@@ -1051,6 +1055,7 @@ module.exports = [
             "shop_url": "https://www.hawkinsnewyork.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/hawkins-new-york.jpg",
@@ -1152,6 +1157,7 @@ module.exports = [
             "shop_url": "https://amqnboutique.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/amqn-antique.jpg",
@@ -1313,6 +1319,7 @@ module.exports = [
             "shop_url": "https://hudsonwilder.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/hudson-wilder.jpg",
@@ -1468,6 +1475,7 @@ module.exports = [
             "shop_url": "https://www.mesogoods.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/meso-goods.jpg",
@@ -2328,6 +2336,7 @@ module.exports = [
             "shop_url": "https://www.pixibeauty.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/pixi-beauty.jpg",
@@ -2835,6 +2844,7 @@ module.exports = [
             "shop_url": "https://tkopresents.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/tko-studios.jpg",
@@ -3000,6 +3010,7 @@ module.exports = [
             "shop_url": "https://wildone.com/",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/wild-one.jpg",
@@ -3142,6 +3153,7 @@ module.exports = [
             "shop_url": "https://www.modishstore.com",
             "media": {
               "alt_text": "Alt text for this image",
+              "caption": "Caption text for this image",
               "tablet_up": {
                 "small": {
                   "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/modish-store.jpg",
@@ -3341,6 +3353,7 @@ module.exports = [
         "label": "Shelf Row One",
         "media": {
           "alt_text": "Alt text for this image",
+          "caption": "Caption text for this image",
           "tablet_up": {
             "small": {
               "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/social-shelf-one.jpg",
@@ -3418,6 +3431,7 @@ module.exports = [
         "label": "Shelf Row Two",
         "media": {
           "alt_text": "Alt text for this image",
+          "caption": "Caption text for this image",
           "tablet_up": {
             "small": {
               "url": "https://cdn.shopify.com/static/images/brand-equity/tablet-up/social-shelf-two.jpg",
